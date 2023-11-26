@@ -1,0 +1,1964 @@
+1700264605: mosquitto version 2.0.18 starting
+1700264605: Config loaded from /mosquitto/config/mosquitto.conf.
+1700264605: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1700264605: Create a configuration file which defines a listener to allow remote access.
+1700264605: For more details see https://mosquitto.org/documentation/authentication-methods/
+1700264605: Opening ipv4 listen socket on port 1883.
+1700264605: Opening ipv6 listen socket on port 1883.
+1700264605: Error: Address not available
+1700264605: mosquitto version 2.0.18 running
+1700265481: mosquitto version 2.0.18 terminating
+1700265703: mosquitto version 2.0.18 starting
+1700265703: Config loaded from /mosquitto/config/mosquitto.conf.
+1700265703: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1700265703: Create a configuration file which defines a listener to allow remote access.
+1700265703: For more details see https://mosquitto.org/documentation/authentication-methods/
+1700265703: Opening ipv4 listen socket on port 1883.
+1700265703: Opening ipv6 listen socket on port 1883.
+1700265703: Error: Address not available
+1700265703: mosquitto version 2.0.18 running
+1700266583: mosquitto version 2.0.18 terminating
+1700266583: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700266663: mosquitto version 2.0.18 starting
+1700266663: Config loaded from /mosquitto/config/mosquitto.conf.
+1700266663: Opening ipv4 listen socket on port 1883.
+1700266663: mosquitto version 2.0.18 running
+1700266682: New connection from 172.20.0.1:46840 on port 1883.
+1700266682: Client auto-2BFE12BE-F354-5096-AF02-9F0C30C72FC4 disconnected, not authorised.
+1700266726: New connection from 172.20.0.1:46844 on port 1883.
+1700266726: Client auto-A4F19A4D-1C9F-F789-297C-94A41FAEF844 disconnected, not authorised.
+1700266759: mosquitto version 2.0.18 terminating
+1700266759: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700771020: mosquitto version 2.0.18 starting
+1700771020: Config loaded from /mosquitto/config/mosquitto.conf.
+1700771020: Opening ipv4 listen socket on port 1883.
+1700771020: mosquitto version 2.0.18 running
+1700771745: New connection from 172.23.0.1:59916 on port 1883.
+1700771745: New client connected from 172.23.0.1:59916 as auto-778680D6-45C7-6F5B-0E8E-672F0F8E4F95 (p2, c1, k60).
+1700771772: New connection from 172.23.0.1:43556 on port 1883.
+1700771772: New client connected from 172.23.0.1:43556 as auto-AC32AD24-2D3B-3DF4-DE88-6A74F73975B4 (p2, c1, k60).
+1700771851: Client auto-AC32AD24-2D3B-3DF4-DE88-6A74F73975B4 closed its connection.
+1700772785: Client auto-778680D6-45C7-6F5B-0E8E-672F0F8E4F95 closed its connection.
+1700772790: New connection from 172.23.0.1:41362 on port 1883.
+1700772790: New client connected from 172.23.0.1:41362 as auto-AE008671-E4F9-3D11-D0AE-CDAC844ECA63 (p2, c1, k60).
+1700772798: New connection from 172.23.0.1:40642 on port 1883.
+1700772798: New client connected from 172.23.0.1:40642 as auto-39ADB4C6-E516-954A-E4C6-585B171897B5 (p2, c1, k60).
+1700772821: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700772821: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700772821: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700773814: New connection from 172.23.0.1:36938 on port 1883.
+1700773814: New client connected from 172.23.0.1:36938 as auto-023EC6C4-6212-360C-7ED6-0CF4D9D5704A (p2, c1, k60).
+1700773870: Client auto-023EC6C4-6212-360C-7ED6-0CF4D9D5704A closed its connection.
+1700774622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700774622: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700774622: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700776146: New connection from 172.23.0.1:37992 on port 1883.
+1700776146: New client connected from 172.23.0.1:37992 as auto-5471F043-C166-FA6D-8751-53C99951C667 (p2, c1, k60).
+1700776358: Client auto-5471F043-C166-FA6D-8751-53C99951C667 closed its connection.
+1700776423: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700776423: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700776423: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700776532: New connection from 172.23.0.1:44592 on port 1883.
+1700776532: New client connected from 172.23.0.1:44592 as auto-5DF8CD78-4C9E-5D67-0397-5771814F08AF (p2, c1, k60).
+1700776580: Client auto-5DF8CD78-4C9E-5D67-0397-5771814F08AF closed its connection.
+1700776583: New connection from 172.23.0.1:46384 on port 1883.
+1700776583: New client connected from 172.23.0.1:46384 as auto-A61D6620-1A5E-FBE5-3C45-A7A05566F366 (p2, c1, k60).
+1700776717: Client auto-A61D6620-1A5E-FBE5-3C45-A7A05566F366 closed its connection.
+1700776720: New connection from 172.23.0.1:53260 on port 1883.
+1700776720: New client connected from 172.23.0.1:53260 as auto-B6B93F2A-59C7-C6D5-D3C9-D03AB648E138 (p2, c1, k60).
+1700776919: Client auto-B6B93F2A-59C7-C6D5-D3C9-D03AB648E138 closed its connection.
+1700777037: New connection from 172.23.0.1:38730 on port 1883.
+1700777037: New client connected from 172.23.0.1:38730 as auto-A0136749-D047-8AD4-B2C0-113A33DCB841 (p2, c1, k60).
+1700777037: Client auto-A0136749-D047-8AD4-B2C0-113A33DCB841 closed its connection.
+1700777065: New connection from 172.23.0.1:50152 on port 1883.
+1700777065: New client connected from 172.23.0.1:50152 as auto-F812A74F-FC8F-94F5-85E7-76C49C5BA484 (p2, c1, k60).
+1700777065: Client auto-F812A74F-FC8F-94F5-85E7-76C49C5BA484 closed its connection.
+1700777184: New connection from 172.23.0.1:37630 on port 1883.
+1700777184: New client connected from 172.23.0.1:37630 as auto-CC933C75-26FF-C38A-E1BE-03BCD204D531 (p2, c1, k60).
+1700777184: Client auto-CC933C75-26FF-C38A-E1BE-03BCD204D531 closed its connection.
+1700777533: New connection from 172.23.0.1:45542 on port 1883.
+1700777533: New client connected from 172.23.0.1:45542 as auto-ACFB6932-602E-1504-3570-E48614B410D9 (p2, c1, k60).
+1700777533: New connection from 172.23.0.1:45556 on port 1883.
+1700777533: New client connected from 172.23.0.1:45556 as auto-63049599-A9B5-0CCB-A8DD-E14704068DD5 (p2, c1, k60).
+1700777533: New connection from 172.23.0.1:45570 on port 1883.
+1700777533: New client connected from 172.23.0.1:45570 as auto-5EAC5464-3379-BF67-312C-A1F73CF40A6B (p2, c1, k60).
+1700777533: Client auto-5EAC5464-3379-BF67-312C-A1F73CF40A6B closed its connection.
+1700777533: Client auto-63049599-A9B5-0CCB-A8DD-E14704068DD5 closed its connection.
+1700777533: Client auto-ACFB6932-602E-1504-3570-E48614B410D9 closed its connection.
+1700777552: New connection from 172.23.0.1:49192 on port 1883.
+1700777552: New client connected from 172.23.0.1:49192 as auto-332E06E5-4BB1-1BF5-C30B-0276455ABAFC (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49196 on port 1883.
+1700777552: New connection from 172.23.0.1:49200 on port 1883.
+1700777552: New client connected from 172.23.0.1:49196 as auto-0B32814F-CEC2-0B93-3A85-72E0BC84C8AD (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49200 as auto-D17FF2E3-18AB-1833-04A5-414B9781175C (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49210 on port 1883.
+1700777552: New connection from 172.23.0.1:49216 on port 1883.
+1700777552: New client connected from 172.23.0.1:49210 as auto-7A289344-DE03-4DC1-1FA5-47EC655FCDB3 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49218 on port 1883.
+1700777552: New client connected from 172.23.0.1:49216 as auto-F1DBC4E1-B189-4EA0-AA28-AF03D7186B5F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49218 as auto-F014938F-68BD-2581-BC2D-BF08B86F25F5 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49226 on port 1883.
+1700777552: New client connected from 172.23.0.1:49226 as auto-A39687B4-5CEF-7321-7ACD-1FB01018FE4D (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49240 on port 1883.
+1700777552: New client connected from 172.23.0.1:49240 as auto-A40CFE6F-4963-09CA-358A-B4DB65DC1FF9 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49248 on port 1883.
+1700777552: New connection from 172.23.0.1:49262 on port 1883.
+1700777552: New connection from 172.23.0.1:49272 on port 1883.
+1700777552: New client connected from 172.23.0.1:49248 as auto-320A8353-7F62-9B56-0944-2C6B094B6B29 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49278 on port 1883.
+1700777552: New connection from 172.23.0.1:49282 on port 1883.
+1700777552: New connection from 172.23.0.1:49296 on port 1883.
+1700777552: New connection from 172.23.0.1:49302 on port 1883.
+1700777552: New connection from 172.23.0.1:49318 on port 1883.
+1700777552: New connection from 172.23.0.1:49328 on port 1883.
+1700777552: New connection from 172.23.0.1:49332 on port 1883.
+1700777552: New connection from 172.23.0.1:49346 on port 1883.
+1700777552: New client connected from 172.23.0.1:49282 as auto-F05D832D-5D7C-8E06-A20B-1BFC36A33AC0 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49302 as auto-35325DC2-3E87-4127-A164-F0E83B222DE6 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49318 as auto-89A63E12-F6B8-0056-2F4A-B747DB0EB57B (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49278 as auto-5ABC8D36-AB3E-AB64-9CF0-1F2A6FD5DD62 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49272 as auto-B8FFAA12-2031-7917-90B3-D1E1A6629519 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49332 as auto-01329012-6459-D1AC-936A-7DB4258C98D2 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49346 as auto-C376A705-74F7-6DCE-0810-81E96C419574 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49360 on port 1883.
+1700777552: New connection from 172.23.0.1:49402 on port 1883.
+1700777552: New connection from 172.23.0.1:49418 on port 1883.
+1700777552: New connection from 172.23.0.1:49510 on port 1883.
+1700777552: New connection from 172.23.0.1:49522 on port 1883.
+1700777552: New connection from 172.23.0.1:49524 on port 1883.
+1700777552: New connection from 172.23.0.1:49530 on port 1883.
+1700777552: New connection from 172.23.0.1:49534 on port 1883.
+1700777552: New connection from 172.23.0.1:49544 on port 1883.
+1700777552: New connection from 172.23.0.1:49548 on port 1883.
+1700777552: New connection from 172.23.0.1:49550 on port 1883.
+1700777552: New connection from 172.23.0.1:49552 on port 1883.
+1700777552: New connection from 172.23.0.1:49554 on port 1883.
+1700777552: New connection from 172.23.0.1:49562 on port 1883.
+1700777552: New connection from 172.23.0.1:49362 on port 1883.
+1700777552: New connection from 172.23.0.1:49392 on port 1883.
+1700777552: New connection from 172.23.0.1:49428 on port 1883.
+1700777552: New connection from 172.23.0.1:49444 on port 1883.
+1700777552: New connection from 172.23.0.1:49452 on port 1883.
+1700777552: New connection from 172.23.0.1:49466 on port 1883.
+1700777552: New connection from 172.23.0.1:49470 on port 1883.
+1700777552: New connection from 172.23.0.1:49484 on port 1883.
+1700777552: New connection from 172.23.0.1:49500 on port 1883.
+1700777552: New connection from 172.23.0.1:49578 on port 1883.
+1700777552: New client connected from 172.23.0.1:49296 as auto-2663D34B-C2A4-DBA4-100D-CB84263B0621 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49328 as auto-1D5037C9-1A4A-DCFA-9CF8-6BABC03FF6C9 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49262 as auto-1C35703D-7FF2-6FF8-6019-6F87FA8644B2 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49360 as auto-20220288-BA2E-E9DE-0BEC-B222139A0349 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49402 as auto-C7B6C960-AAE9-9E55-2536-2E650EE7A3CF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49418 as auto-D77CC0DD-BE06-2CEB-28A3-F145BE996F52 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49510 as auto-AE74DAAE-71D6-EC2A-A4D8-6FDF6447B3CE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49522 as auto-88977517-C155-3B0A-8E23-9A68113F3181 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49524 as auto-2C2D9E72-35AA-94A8-4224-A833DFBDFCBB (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49530 as auto-42704A13-BC84-D5E0-D490-E3827E7B65EF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49534 as auto-21A8A412-D21E-9C06-B169-8D753F10BF29 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49544 as auto-82ED03A8-859C-F602-5F93-8EBC0377CFC4 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49548 as auto-33903366-0098-ABA6-823C-43B71AC08C03 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49550 as auto-8276A291-6D4C-07A8-7C7B-DC50B016525C (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49552 as auto-CCF3CAFD-E3AB-FE31-5A16-844170F735FC (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49554 as auto-4704979E-5EB0-25B8-A289-A74FF08EBA50 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49562 as auto-1253988D-C348-D76F-7482-BDBB812252C0 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49444 as auto-43C6015C-1B71-91CA-8F41-64E01F0A611F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49470 as auto-9DF9CAB4-EC24-3575-A96D-C0236E19907B (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49484 as auto-85915B31-1BFE-A449-46B4-70240E53190C (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49500 as auto-C8FEFEFC-CF06-16E7-2D50-F6E5C498066C (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49466 as auto-AF7DC431-2DE9-B84B-F16B-677706A299B3 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49452 as auto-4288518F-87D5-6C8D-D214-6451214A6057 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49428 as auto-4B77D7DE-BFBA-F173-732E-900CA078E5E6 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49592 on port 1883.
+1700777552: New connection from 172.23.0.1:49606 on port 1883.
+1700777552: New connection from 172.23.0.1:49616 on port 1883.
+1700777552: New connection from 172.23.0.1:49624 on port 1883.
+1700777552: New connection from 172.23.0.1:49634 on port 1883.
+1700777552: New connection from 172.23.0.1:49638 on port 1883.
+1700777552: New connection from 172.23.0.1:49646 on port 1883.
+1700777552: New connection from 172.23.0.1:49656 on port 1883.
+1700777552: New connection from 172.23.0.1:49660 on port 1883.
+1700777552: New connection from 172.23.0.1:49668 on port 1883.
+1700777552: New connection from 172.23.0.1:49682 on port 1883.
+1700777552: New connection from 172.23.0.1:49692 on port 1883.
+1700777552: New connection from 172.23.0.1:49704 on port 1883.
+1700777552: New connection from 172.23.0.1:49710 on port 1883.
+1700777552: New client connected from 172.23.0.1:49578 as auto-F73F5CA0-89DD-5D1C-9878-7CBCB7CECC08 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49392 as auto-F4D41BB1-3F1F-2809-DDC7-33DDE970468B (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49362 as auto-3E179A6C-BAEA-ACAF-E011-920FBBBFCD4E (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49592 as auto-0AAEC10F-595F-DAC6-FE6B-574AAA1AD6D6 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49606 as auto-17C75CFD-B35A-BE20-E277-17E80F17904F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49616 as auto-B3EF7DA2-D777-E8C6-AE9F-5BCBAFC1665F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49624 as auto-1E5E042F-9B27-A233-33B0-13E04ABCE179 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49634 as auto-395E4D3B-5B62-983F-FEE5-8C88391C5ECE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49638 as auto-EABC2BDF-6034-1D8F-4631-C1AFABA6DC3A (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49646 as auto-2ED944CB-FC54-E315-A06C-10E80E8A82FE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49656 as auto-F69319FF-B3BE-5C46-FB4B-337B8E49E1E4 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49660 as auto-62E2C977-D023-6856-C809-7C42BD4424C5 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49668 as auto-63A8096D-DFDB-B370-E283-1433E5885A63 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49682 as auto-7C666C19-00D8-2666-7E90-64010332659A (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49692 as auto-002F9D11-D7CC-2297-7C90-1E8073714D6B (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49704 as auto-49C1964E-F9F5-0F31-2BB1-60AD041F0E29 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49710 as auto-3B41176E-4204-73F3-4009-13DDB6463366 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49722 on port 1883.
+1700777552: New connection from 172.23.0.1:49736 on port 1883.
+1700777552: New connection from 172.23.0.1:49752 on port 1883.
+1700777552: New connection from 172.23.0.1:49762 on port 1883.
+1700777552: New client connected from 172.23.0.1:49736 as auto-840E19C7-9CD0-2F35-C4AD-17E1D1E4B1EE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49722 as auto-11C8749F-96E5-7002-FA08-54DD08B1E797 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49752 as auto-E4369E43-C192-493F-AC6B-35CD9C3F57F0 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49762 as auto-D5E06986-617C-7005-9799-F99650F011B4 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49776 on port 1883.
+1700777552: New client connected from 172.23.0.1:49776 as auto-64697888-CC29-8C3F-2866-F1DBC52500E0 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49790 on port 1883.
+1700777552: New client connected from 172.23.0.1:49790 as auto-FD5FE673-C0FF-9184-21C1-0660D6A449B4 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49800 on port 1883.
+1700777552: New client connected from 172.23.0.1:49800 as auto-521C3E2A-B3C7-B966-97A0-91EE510339DB (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49804 on port 1883.
+1700777552: New client connected from 172.23.0.1:49804 as auto-EE7EFB5E-09C3-7A32-93B5-57FD751FD0F2 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49812 on port 1883.
+1700777552: New client connected from 172.23.0.1:49812 as auto-BB42D333-8804-9156-7615-C443BB22A919 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49820 on port 1883.
+1700777552: New client connected from 172.23.0.1:49820 as auto-23DD4B7C-81C9-7E2F-B28A-501DB5C00A53 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49822 on port 1883.
+1700777552: New client connected from 172.23.0.1:49822 as auto-9052BB57-71F8-3415-DFAC-ECE85937B7E8 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49830 on port 1883.
+1700777552: New client connected from 172.23.0.1:49830 as auto-FDB1E77C-002F-6697-AEDA-F239BAB476BB (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49844 on port 1883.
+1700777552: New client connected from 172.23.0.1:49844 as auto-F3404B43-1EA6-1407-2316-3D6530222DED (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49850 on port 1883.
+1700777552: New client connected from 172.23.0.1:49850 as auto-1BF5E1FC-B9DF-A1FD-4987-997F896C304C (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49864 on port 1883.
+1700777552: New client connected from 172.23.0.1:49864 as auto-C55ABD72-9ABE-4087-410D-D65BD7F4BC8D (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49874 on port 1883.
+1700777552: New client connected from 172.23.0.1:49874 as auto-CA0C49B1-3CC5-B163-BD34-B670B14C5A89 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49878 on port 1883.
+1700777552: New client connected from 172.23.0.1:49878 as auto-55BC05E9-1841-379F-6FCA-AA459BC049F4 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49888 on port 1883.
+1700777552: New client connected from 172.23.0.1:49888 as auto-BE63018E-4F3E-8BC1-DEF8-D9790821D28E (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49900 on port 1883.
+1700777552: New client connected from 172.23.0.1:49900 as auto-8C1DD762-9756-5A8D-E913-648652B9109E (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49916 on port 1883.
+1700777552: New client connected from 172.23.0.1:49916 as auto-D1C1696E-F3D9-A38B-7A3A-B6D7BC83E116 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49926 on port 1883.
+1700777552: New client connected from 172.23.0.1:49926 as auto-A811E117-712F-9A98-D215-8A6BA567B9DD (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49940 on port 1883.
+1700777552: New client connected from 172.23.0.1:49940 as auto-BA9940AA-965E-E003-8816-4F5061006652 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49956 on port 1883.
+1700777552: New client connected from 172.23.0.1:49956 as auto-742F0EBF-D047-CD37-0D1E-8DF1504992AF (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49958 on port 1883.
+1700777552: New client connected from 172.23.0.1:49958 as auto-8AEA9E8D-755C-C355-0F80-4B8CE6E5AC7C (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49960 on port 1883.
+1700777552: New client connected from 172.23.0.1:49960 as auto-86D8F178-AEC3-63A5-C62A-2B8064A81F0B (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:49964 on port 1883.
+1700777552: New connection from 172.23.0.1:49968 on port 1883.
+1700777552: New connection from 172.23.0.1:49982 on port 1883.
+1700777552: New connection from 172.23.0.1:49994 on port 1883.
+1700777552: New connection from 172.23.0.1:49998 on port 1883.
+1700777552: New connection from 172.23.0.1:50006 on port 1883.
+1700777552: New connection from 172.23.0.1:50022 on port 1883.
+1700777552: New connection from 172.23.0.1:50036 on port 1883.
+1700777552: New connection from 172.23.0.1:50048 on port 1883.
+1700777552: New connection from 172.23.0.1:50056 on port 1883.
+1700777552: New connection from 172.23.0.1:50062 on port 1883.
+1700777552: New connection from 172.23.0.1:50076 on port 1883.
+1700777552: New connection from 172.23.0.1:50082 on port 1883.
+1700777552: New connection from 172.23.0.1:50086 on port 1883.
+1700777552: New connection from 172.23.0.1:50090 on port 1883.
+1700777552: New connection from 172.23.0.1:50102 on port 1883.
+1700777552: New connection from 172.23.0.1:50104 on port 1883.
+1700777552: New connection from 172.23.0.1:50114 on port 1883.
+1700777552: New connection from 172.23.0.1:50118 on port 1883.
+1700777552: New client connected from 172.23.0.1:50082 as auto-FB6C173E-2C59-278D-1CFF-FA94E209DCBD (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50036 as auto-825AE41F-394A-1ACF-1277-DF994A86DD03 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50022 as auto-FA1B2138-BB11-D990-1B97-3E6DDA7BD640 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50006 as auto-2F7301A4-FBB4-1A35-F029-8AFAF9C6696A (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49998 as auto-D156D1D9-D34D-0A82-9AA7-0DA848491F4E (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49994 as auto-3ABB47B6-5BCC-EF76-44B8-4E8379A9AEF8 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49982 as auto-2666CDE5-C5DC-4512-F093-CC9AF535DF22 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49968 as auto-59863914-0C2C-3FE4-8F9C-6AA12D6FD18F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:49964 as auto-5ADDB28F-42CA-DB2F-855A-5488044A34EF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50076 as auto-0D07BBDC-8387-AA46-5C3E-DDB116963DE5 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50104 as auto-5BD23BA4-C15D-FDC1-7524-8A0F7142F0CF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50114 as auto-E928EE2D-E1B6-E188-611D-D82740D7B157 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50062 as auto-03E33129-B7FE-F231-FC18-04899434CE49 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50056 as auto-4CC1CA10-A935-0FBE-1FAB-CEB76FAA8565 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50048 as auto-0EEE0EF7-4E72-F81C-3655-6D6389562245 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50130 on port 1883.
+1700777552: New client connected from 172.23.0.1:50118 as auto-871EEBC6-933E-76BA-10B2-84DC3312CDBE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50090 as auto-E80D51AD-C19B-1DC4-9E1E-DBE7424EE903 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50086 as auto-E59D676F-A9FC-8F06-1568-0D3372058DEC (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50102 as auto-07FB9216-C4C8-F531-67AF-86D3DFF51230 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50140 on port 1883.
+1700777552: New client connected from 172.23.0.1:50130 as auto-FCBD8C82-509E-9F32-8FFD-11997ED63DCE (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50144 on port 1883.
+1700777552: New client connected from 172.23.0.1:50140 as auto-811E6DA7-9890-5E77-4C97-E14AD4F4725B (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50144 as auto-B0A1425A-4D54-7D53-CCBD-CB7AB0EC7E46 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50150 on port 1883.
+1700777552: New client connected from 172.23.0.1:50150 as auto-AEB8F31B-D96A-6D3E-586E-9DE773105B03 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50158 on port 1883.
+1700777552: New client connected from 172.23.0.1:50158 as auto-32411F7C-5123-1283-C52A-ED7F3C8AA4BA (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50160 on port 1883.
+1700777552: New client connected from 172.23.0.1:50160 as auto-6E0ADE68-666B-D165-2CBF-790332196113 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50174 on port 1883.
+1700777552: New client connected from 172.23.0.1:50174 as auto-3404D960-D19E-EB80-71FA-BF2AFFF057E1 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50190 on port 1883.
+1700777552: New client connected from 172.23.0.1:50190 as auto-4ECF1821-FDFF-B16E-4B56-680CBF16E597 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50194 on port 1883.
+1700777552: New client connected from 172.23.0.1:50194 as auto-5DE98EC9-E44D-758E-18F2-A506993ED085 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50200 on port 1883.
+1700777552: New client connected from 172.23.0.1:50200 as auto-D6D8C1BD-B2CD-50F3-C4CA-82BDF6E8EF37 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50204 on port 1883.
+1700777552: New client connected from 172.23.0.1:50204 as auto-274D505D-009E-1CF5-5663-F58940E91D62 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50220 on port 1883.
+1700777552: New client connected from 172.23.0.1:50220 as auto-613B9306-15B6-2BBE-9B77-FF0A131AACE7 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50222 on port 1883.
+1700777552: New client connected from 172.23.0.1:50222 as auto-5526AA63-CFF0-DA5E-A7B0-C11BF8648DC9 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50226 on port 1883.
+1700777552: New client connected from 172.23.0.1:50226 as auto-0C3D2AA3-D5A2-1B21-5B4B-46C8ACF20CDC (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50230 on port 1883.
+1700777552: New client connected from 172.23.0.1:50230 as auto-B758B6D4-3821-77ED-6568-554FC7A263C2 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50236 on port 1883.
+1700777552: New connection from 172.23.0.1:50244 on port 1883.
+1700777552: New client connected from 172.23.0.1:50236 as auto-511C74E1-4CF0-2DAA-6044-0D20176698BC (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50244 as auto-716FEC70-F8B0-0C4A-F8B1-1FFDCAF37738 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50254 on port 1883.
+1700777552: New client connected from 172.23.0.1:50254 as auto-ABA0A392-22B5-D5B9-3430-6817346FCC1D (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50264 on port 1883.
+1700777552: New client connected from 172.23.0.1:50264 as auto-DBD735D7-407A-80BB-DD37-A6F1C1854992 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50278 on port 1883.
+1700777552: New client connected from 172.23.0.1:50278 as auto-EE1527A8-367D-119C-8254-ED3F6C70EE27 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50294 on port 1883.
+1700777552: New client connected from 172.23.0.1:50294 as auto-E9088060-89D5-B46B-0E51-5EDEC6A42D98 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50302 on port 1883.
+1700777552: New client connected from 172.23.0.1:50302 as auto-C44979A4-502A-38A8-2575-BE14D6287C23 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50308 on port 1883.
+1700777552: New client connected from 172.23.0.1:50308 as auto-D103ED7C-C7BA-5024-DBEA-5EA63F50245E (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50324 on port 1883.
+1700777552: New client connected from 172.23.0.1:50324 as auto-B12E750B-D44B-04D0-417F-8E80EE5ABF5E (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50330 on port 1883.
+1700777552: New client connected from 172.23.0.1:50330 as auto-AB70478B-963F-41FA-B0DC-F31A0E9C160F (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50334 on port 1883.
+1700777552: New client connected from 172.23.0.1:50334 as auto-2A57389F-DE54-6BE6-DD0C-B77DBDEF7172 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50342 on port 1883.
+1700777552: New client connected from 172.23.0.1:50342 as auto-51270BA3-98A1-2768-B5CC-2360C52C459F (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50358 on port 1883.
+1700777552: New client connected from 172.23.0.1:50358 as auto-80642D4B-025F-BFAA-E89A-3DCC866C9A32 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50370 on port 1883.
+1700777552: New client connected from 172.23.0.1:50370 as auto-7870B5B6-0245-C54B-F36A-90A5AFCA4C33 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50378 on port 1883.
+1700777552: New client connected from 172.23.0.1:50378 as auto-4A70CD0D-53EF-32BB-9D19-68669D97D94B (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50382 on port 1883.
+1700777552: New client connected from 172.23.0.1:50382 as auto-6567187C-CF40-A810-46F6-CC8B22DAA944 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50398 on port 1883.
+1700777552: New client connected from 172.23.0.1:50398 as auto-B4A8F76E-EF80-2BBF-DE7D-684FD74A901F (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50402 on port 1883.
+1700777552: New client connected from 172.23.0.1:50402 as auto-F711B7E5-B1AA-52DF-FB0C-9E66FDC1EFE2 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50404 on port 1883.
+1700777552: New client connected from 172.23.0.1:50404 as auto-98AC21E4-434D-B0F4-0385-6CDE741D795C (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50420 on port 1883.
+1700777552: New client connected from 172.23.0.1:50420 as auto-F7615EFE-8A08-7D3D-8C4B-CA79747EE68F (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50422 on port 1883.
+1700777552: New client connected from 172.23.0.1:50422 as auto-7F054EE7-3AC1-FEA1-3B7D-7E4F8525AAC3 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50430 on port 1883.
+1700777552: New client connected from 172.23.0.1:50430 as auto-AAEBF47B-712E-AC02-E2D2-F06B5EBA22B0 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50440 on port 1883.
+1700777552: New client connected from 172.23.0.1:50440 as auto-13510BFD-4F47-AECC-7596-C6783AC102E6 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50456 on port 1883.
+1700777552: New client connected from 172.23.0.1:50456 as auto-0F34132D-2A9C-E281-DE9D-855C968074E3 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50472 on port 1883.
+1700777552: New client connected from 172.23.0.1:50472 as auto-B217D05D-0AE0-7EE7-5C3E-A995AF594ECF (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50476 on port 1883.
+1700777552: New client connected from 172.23.0.1:50476 as auto-42DE1FB7-5348-4F68-8B53-A8188D11FCD6 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50480 on port 1883.
+1700777552: New client connected from 172.23.0.1:50480 as auto-7C65A249-5E3A-1F5D-4421-28DED0F96078 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50494 on port 1883.
+1700777552: New client connected from 172.23.0.1:50494 as auto-58D7EE79-1027-B4B8-DF52-701B8E277F11 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50500 on port 1883.
+1700777552: New client connected from 172.23.0.1:50500 as auto-11B8ACEB-4E70-350E-74DD-BEEE0779CDD2 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50512 on port 1883.
+1700777552: New client connected from 172.23.0.1:50512 as auto-2CCB24E8-4FB4-5E28-4588-62068502D45B (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50524 on port 1883.
+1700777552: New client connected from 172.23.0.1:50524 as auto-36D36931-372C-C826-C590-8724814DD6C5 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50526 on port 1883.
+1700777552: New client connected from 172.23.0.1:50526 as auto-7F236745-EEDB-E878-B90F-7DCE1B3FE09A (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50536 on port 1883.
+1700777552: New client connected from 172.23.0.1:50536 as auto-88C19C87-DAAC-AB80-1213-DB46B67A3AAB (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50546 on port 1883.
+1700777552: New client connected from 172.23.0.1:50546 as auto-9F0C6365-FCCD-9541-C0F8-EAF4B00B35CE (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50550 on port 1883.
+1700777552: New client connected from 172.23.0.1:50550 as auto-D0C7DA73-BA78-AF9E-033E-32BFBDC29684 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50566 on port 1883.
+1700777552: New client connected from 172.23.0.1:50566 as auto-ECB276CD-1C67-50AF-CC55-03F8A00F6E12 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50568 on port 1883.
+1700777552: New client connected from 172.23.0.1:50568 as auto-F91EB478-F241-2411-603D-D792B1A0BF89 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50570 on port 1883.
+1700777552: New client connected from 172.23.0.1:50570 as auto-164520DA-C640-841B-819B-960B3F521F9C (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50578 on port 1883.
+1700777552: New client connected from 172.23.0.1:50578 as auto-96A5E269-9DB3-B3DC-54CF-70D232162E46 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50590 on port 1883.
+1700777552: New client connected from 172.23.0.1:50590 as auto-17269F60-D420-0FD6-CDB4-E947D4EC947D (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50600 on port 1883.
+1700777552: New client connected from 172.23.0.1:50600 as auto-24814460-41C0-A741-F279-17C9E8CD4937 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50614 on port 1883.
+1700777552: New connection from 172.23.0.1:50622 on port 1883.
+1700777552: New client connected from 172.23.0.1:50614 as auto-ADBE9781-47C5-C250-B166-02023E63C738 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50622 as auto-E06D69E4-94A5-CA7D-1910-314EC6AE0FED (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50634 on port 1883.
+1700777552: New client connected from 172.23.0.1:50634 as auto-72E5AC3B-7A15-A9D0-8D8D-E473C9E6D721 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50640 on port 1883.
+1700777552: New connection from 172.23.0.1:50646 on port 1883.
+1700777552: New connection from 172.23.0.1:50660 on port 1883.
+1700777552: New client connected from 172.23.0.1:50640 as auto-F4BB10D6-7BCB-433B-593A-6ACFD8596FDE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50646 as auto-F09C40DC-216A-D071-902E-ECF3C112EBA4 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50660 as auto-1AD89E66-52F6-C834-B6A5-9CE32B2577F4 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50666 on port 1883.
+1700777552: New client connected from 172.23.0.1:50666 as auto-AB994893-FC4F-C03F-CDCB-F35716866301 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50682 on port 1883.
+1700777552: New client connected from 172.23.0.1:50682 as auto-D80D04CC-8052-54AA-25C0-1B8294063A16 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50690 on port 1883.
+1700777552: New client connected from 172.23.0.1:50690 as auto-F7CB76A9-458E-C287-8C01-C8FCD9CC9B82 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50696 on port 1883.
+1700777552: New client connected from 172.23.0.1:50696 as auto-199B335E-A3ED-1396-0588-EEBF96B3FFD9 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50712 on port 1883.
+1700777552: New client connected from 172.23.0.1:50712 as auto-3B04A238-51D6-3BE0-D729-2F0C852EA872 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50728 on port 1883.
+1700777552: New connection from 172.23.0.1:50740 on port 1883.
+1700777552: New connection from 172.23.0.1:50750 on port 1883.
+1700777552: New connection from 172.23.0.1:50760 on port 1883.
+1700777552: New connection from 172.23.0.1:50772 on port 1883.
+1700777552: New connection from 172.23.0.1:50778 on port 1883.
+1700777552: New connection from 172.23.0.1:50790 on port 1883.
+1700777552: New connection from 172.23.0.1:50798 on port 1883.
+1700777552: New connection from 172.23.0.1:50808 on port 1883.
+1700777552: New connection from 172.23.0.1:50814 on port 1883.
+1700777552: New connection from 172.23.0.1:50816 on port 1883.
+1700777552: New connection from 172.23.0.1:50822 on port 1883.
+1700777552: New connection from 172.23.0.1:50832 on port 1883.
+1700777552: New connection from 172.23.0.1:50834 on port 1883.
+1700777552: New connection from 172.23.0.1:50850 on port 1883.
+1700777552: New connection from 172.23.0.1:50864 on port 1883.
+1700777552: New connection from 172.23.0.1:50874 on port 1883.
+1700777552: New connection from 172.23.0.1:50880 on port 1883.
+1700777552: New connection from 172.23.0.1:50886 on port 1883.
+1700777552: New connection from 172.23.0.1:50902 on port 1883.
+1700777552: New client connected from 172.23.0.1:50728 as auto-BC69577C-EC53-2828-B888-72E399D26C74 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50740 as auto-6DF53AF6-43DE-10ED-080E-BFA030347712 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50750 as auto-334C1CA2-CE1E-C8CA-0C8C-F08EF2811E3D (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50760 as auto-EB8DEFBE-A03C-8FBD-D4CD-CA55CEB726D3 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50772 as auto-E7726CEE-2BC2-4408-F960-5F638F39CEE7 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50778 as auto-135A4909-2995-C1E2-A24B-BC6A0F950463 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50790 as auto-D3032B4B-A114-3D67-5122-CC17939C0201 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50798 as auto-25247D91-666E-7DA7-D3ED-BF73BD94B834 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50808 as auto-C46260A7-C377-4A7F-9644-ABAA671F73B3 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50814 as auto-8B3C070D-FE55-EE59-EFC6-99F71C43C8F5 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50816 as auto-D57B37E8-5F5E-393F-8379-CE34BDAC5B1E (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50822 as auto-81982D83-4080-A304-9D82-F2CA6FF365AF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50832 as auto-2409F385-4DAC-84DF-777E-5250A322DEFE (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50834 as auto-EA809F77-B419-BDC4-1FDA-D808CA5E6CB9 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50850 as auto-3C3D0675-5A38-BDC6-93D7-D338ACAD5AEB (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50864 as auto-F4D2C11E-A492-A3F9-7E65-48166BC828FF (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50874 as auto-744C171F-2D2B-B495-913A-5D9278E14161 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50880 as auto-F13EFFC3-D430-B16D-F9BF-BCE0B5EFF2B2 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50886 as auto-6E804FD0-3506-69FE-4C4A-6266ADF04299 (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50904 on port 1883.
+1700777552: New connection from 172.23.0.1:50920 on port 1883.
+1700777552: New connection from 172.23.0.1:50934 on port 1883.
+1700777552: New client connected from 172.23.0.1:50902 as auto-D2374411-FFA6-DD3A-5841-336890278EBD (p2, c1, k60).
+1700777552: New connection from 172.23.0.1:50948 on port 1883.
+1700777552: New client connected from 172.23.0.1:50934 as auto-07924609-8A6D-3DF6-4453-1EE13D83E914 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50920 as auto-EEC08767-52E3-0E19-3D64-FCF9CC659F7F (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50904 as auto-8E5C1228-8C73-8ADF-B247-BB980B7EDE45 (p2, c1, k60).
+1700777552: New client connected from 172.23.0.1:50948 as auto-91B90623-EB07-1F8E-2CA8-FDEE74C823AB (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:50964 on port 1883.
+1700777553: New client connected from 172.23.0.1:50964 as auto-BF591BBE-F1F3-ADC9-A400-FFF58EEB66C4 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:50974 on port 1883.
+1700777553: New client connected from 172.23.0.1:50974 as auto-9DCAB4B2-3D92-0C43-BEBC-63D53F157167 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:50982 on port 1883.
+1700777553: New client connected from 172.23.0.1:50982 as auto-A28BFC4B-CC2D-01F3-7553-6C8EF1DD706D (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:50988 on port 1883.
+1700777553: New client connected from 172.23.0.1:50988 as auto-35DBD350-AD28-BBA9-980C-D91BFC569113 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51000 on port 1883.
+1700777553: New client connected from 172.23.0.1:51000 as auto-3468A4AD-9D2E-71AA-B95B-F0215514B128 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51002 on port 1883.
+1700777553: New client connected from 172.23.0.1:51002 as auto-6E3F123F-B665-C5F4-65E4-E0A1EACE8CDF (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51018 on port 1883.
+1700777553: New client connected from 172.23.0.1:51018 as auto-53093EA8-BF22-8BF9-328E-2D2F894AA83D (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51024 on port 1883.
+1700777553: New connection from 172.23.0.1:51040 on port 1883.
+1700777553: New client connected from 172.23.0.1:51024 as auto-C5132DF4-4DFD-AC23-71FE-0AC79B09F406 (p2, c1, k60).
+1700777553: New client connected from 172.23.0.1:51040 as auto-29649921-B333-885F-A67C-11956C234A0F (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51054 on port 1883.
+1700777553: New client connected from 172.23.0.1:51054 as auto-DB866C26-E51A-1239-D634-84E82552A13F (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51068 on port 1883.
+1700777553: New client connected from 172.23.0.1:51068 as auto-158E250E-CCD3-1C38-0884-09AD8834C36B (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51078 on port 1883.
+1700777553: New connection from 172.23.0.1:51092 on port 1883.
+1700777553: New client connected from 172.23.0.1:51078 as auto-424F4FC9-7A84-2D3D-D879-2A597CE063A7 (p2, c1, k60).
+1700777553: New client connected from 172.23.0.1:51092 as auto-2F762307-2C88-52E3-C574-7DD1AD450A94 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51094 on port 1883.
+1700777553: New client connected from 172.23.0.1:51094 as auto-77AE01D5-7FA6-DE3A-5E6B-2D610CCCA2EE (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51110 on port 1883.
+1700777553: New client connected from 172.23.0.1:51110 as auto-8709AD25-E4EA-C7F6-CD7C-39FAF769D247 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51126 on port 1883.
+1700777553: New client connected from 172.23.0.1:51126 as auto-3D94B2E6-2621-0555-013B-67EC8A73795B (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51130 on port 1883.
+1700777553: New client connected from 172.23.0.1:51130 as auto-88FD9D95-E1E9-36F6-74A1-949A20A22990 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51144 on port 1883.
+1700777553: New client connected from 172.23.0.1:51144 as auto-B4543CA8-2C3B-8462-049B-5E4CFE12C63E (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51158 on port 1883.
+1700777553: New client connected from 172.23.0.1:51158 as auto-7CBEF977-0B42-89F2-9F4E-D0F100894BB2 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51166 on port 1883.
+1700777553: New client connected from 172.23.0.1:51166 as auto-695C037A-0822-D44A-B199-897806F5FD36 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51182 on port 1883.
+1700777553: New client connected from 172.23.0.1:51182 as auto-8DD1FB7F-9109-553B-12B7-3FFC5E0AAA4F (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51188 on port 1883.
+1700777553: New client connected from 172.23.0.1:51188 as auto-461C3CA8-45F8-208C-BE50-8DE8CA94423D (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51202 on port 1883.
+1700777553: New client connected from 172.23.0.1:51202 as auto-CC9DE90C-5AEF-6C70-D6DD-5DF2ECF01655 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51212 on port 1883.
+1700777553: New client connected from 172.23.0.1:51212 as auto-6BB54636-1BFC-455C-410F-875CFC5E76A2 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51226 on port 1883.
+1700777553: New client connected from 172.23.0.1:51226 as auto-77EB9703-DD7E-7020-AE97-D77ACD19FF6D (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51240 on port 1883.
+1700777553: New client connected from 172.23.0.1:51240 as auto-03E5BCC9-6009-C447-A676-B65AC75E2435 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51254 on port 1883.
+1700777553: New client connected from 172.23.0.1:51254 as auto-5C215F5A-4328-37ED-5E6E-FDB84102082B (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51262 on port 1883.
+1700777553: New client connected from 172.23.0.1:51262 as auto-20114B13-ED55-4528-2525-BA01CF99B87E (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51264 on port 1883.
+1700777553: New client connected from 172.23.0.1:51264 as auto-37428D76-0631-1F50-27CF-EE535F0DD2A1 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51280 on port 1883.
+1700777553: New connection from 172.23.0.1:51292 on port 1883.
+1700777553: New client connected from 172.23.0.1:51280 as auto-C2450EC9-5586-7C5E-F6E0-7FEBE2C63E56 (p2, c1, k60).
+1700777553: New client connected from 172.23.0.1:51292 as auto-57696A4F-7EDA-ABE9-4E6C-84F07BB15124 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51304 on port 1883.
+1700777553: New client connected from 172.23.0.1:51304 as auto-8312DE4A-BE26-17A5-6BF4-0F03A5CE0B65 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51306 on port 1883.
+1700777553: New client connected from 172.23.0.1:51306 as auto-F6A42976-2941-9B5F-504A-D615623477CC (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51318 on port 1883.
+1700777553: New client connected from 172.23.0.1:51318 as auto-00150542-D216-1C11-869A-ADE9EB20F7E2 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51322 on port 1883.
+1700777553: New client connected from 172.23.0.1:51322 as auto-97E97A0E-4AC6-F832-754F-D45B6D4C5D49 (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51336 on port 1883.
+1700777553: New client connected from 172.23.0.1:51336 as auto-72C4C103-06FB-0848-26F3-B9BE0184099E (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51346 on port 1883.
+1700777553: New connection from 172.23.0.1:51362 on port 1883.
+1700777553: New client connected from 172.23.0.1:51346 as auto-56B947CE-E9E4-380A-5BD3-E29E7F3CFAB8 (p2, c1, k60).
+1700777553: New client connected from 172.23.0.1:51362 as auto-B7C4D490-0B9E-CFB3-2B8D-20C50501D7BD (p2, c1, k60).
+1700777553: New connection from 172.23.0.1:51376 on port 1883.
+1700777553: New client connected from 172.23.0.1:51376 as auto-BD4ED1E9-7303-D8B9-7374-08A216630CBB (p2, c1, k60).
+1700777558: Client auto-BD4ED1E9-7303-D8B9-7374-08A216630CBB closed its connection.
+1700777558: Client auto-B7C4D490-0B9E-CFB3-2B8D-20C50501D7BD closed its connection.
+1700777558: Client auto-56B947CE-E9E4-380A-5BD3-E29E7F3CFAB8 closed its connection.
+1700777558: Client auto-97E97A0E-4AC6-F832-754F-D45B6D4C5D49 closed its connection.
+1700777558: Client auto-72C4C103-06FB-0848-26F3-B9BE0184099E closed its connection.
+1700777558: Client auto-F6A42976-2941-9B5F-504A-D615623477CC closed its connection.
+1700777558: Client auto-00150542-D216-1C11-869A-ADE9EB20F7E2 closed its connection.
+1700777558: Client auto-8312DE4A-BE26-17A5-6BF4-0F03A5CE0B65 closed its connection.
+1700777558: Client auto-C2450EC9-5586-7C5E-F6E0-7FEBE2C63E56 closed its connection.
+1700777558: Client auto-57696A4F-7EDA-ABE9-4E6C-84F07BB15124 closed its connection.
+1700777558: Client auto-20114B13-ED55-4528-2525-BA01CF99B87E closed its connection.
+1700777558: Client auto-37428D76-0631-1F50-27CF-EE535F0DD2A1 closed its connection.
+1700777558: Client auto-5C215F5A-4328-37ED-5E6E-FDB84102082B closed its connection.
+1700777558: Client auto-03E5BCC9-6009-C447-A676-B65AC75E2435 closed its connection.
+1700777558: Client auto-77EB9703-DD7E-7020-AE97-D77ACD19FF6D closed its connection.
+1700777558: Client auto-6BB54636-1BFC-455C-410F-875CFC5E76A2 closed its connection.
+1700777558: Client auto-CC9DE90C-5AEF-6C70-D6DD-5DF2ECF01655 closed its connection.
+1700777558: Client auto-461C3CA8-45F8-208C-BE50-8DE8CA94423D closed its connection.
+1700777558: Client auto-8DD1FB7F-9109-553B-12B7-3FFC5E0AAA4F closed its connection.
+1700777558: Client auto-695C037A-0822-D44A-B199-897806F5FD36 closed its connection.
+1700777558: Client auto-7CBEF977-0B42-89F2-9F4E-D0F100894BB2 closed its connection.
+1700777558: Client auto-B4543CA8-2C3B-8462-049B-5E4CFE12C63E closed its connection.
+1700777558: Client auto-88FD9D95-E1E9-36F6-74A1-949A20A22990 closed its connection.
+1700777558: Client auto-77AE01D5-7FA6-DE3A-5E6B-2D610CCCA2EE closed its connection.
+1700777558: Client auto-3D94B2E6-2621-0555-013B-67EC8A73795B closed its connection.
+1700777558: Client auto-8709AD25-E4EA-C7F6-CD7C-39FAF769D247 closed its connection.
+1700777558: Client auto-158E250E-CCD3-1C38-0884-09AD8834C36B closed its connection.
+1700777558: Client auto-2F762307-2C88-52E3-C574-7DD1AD450A94 closed its connection.
+1700777558: Client auto-424F4FC9-7A84-2D3D-D879-2A597CE063A7 closed its connection.
+1700777558: Client auto-DB866C26-E51A-1239-D634-84E82552A13F closed its connection.
+1700777558: Client auto-29649921-B333-885F-A67C-11956C234A0F closed its connection.
+1700777558: Client auto-53093EA8-BF22-8BF9-328E-2D2F894AA83D closed its connection.
+1700777558: Client auto-C5132DF4-4DFD-AC23-71FE-0AC79B09F406 closed its connection.
+1700777558: Client auto-6E3F123F-B665-C5F4-65E4-E0A1EACE8CDF closed its connection.
+1700777558: Client auto-3468A4AD-9D2E-71AA-B95B-F0215514B128 closed its connection.
+1700777558: Client auto-35DBD350-AD28-BBA9-980C-D91BFC569113 closed its connection.
+1700777558: Client auto-9DCAB4B2-3D92-0C43-BEBC-63D53F157167 closed its connection.
+1700777558: Client auto-A28BFC4B-CC2D-01F3-7553-6C8EF1DD706D closed its connection.
+1700777558: Client auto-BF591BBE-F1F3-ADC9-A400-FFF58EEB66C4 closed its connection.
+1700777558: Client auto-91B90623-EB07-1F8E-2CA8-FDEE74C823AB closed its connection.
+1700777558: Client auto-07924609-8A6D-3DF6-4453-1EE13D83E914 closed its connection.
+1700777558: Client auto-8E5C1228-8C73-8ADF-B247-BB980B7EDE45 closed its connection.
+1700777558: Client auto-EEC08767-52E3-0E19-3D64-FCF9CC659F7F closed its connection.
+1700777558: Client auto-D2374411-FFA6-DD3A-5841-336890278EBD closed its connection.
+1700777558: Client auto-F13EFFC3-D430-B16D-F9BF-BCE0B5EFF2B2 closed its connection.
+1700777558: Client auto-6E804FD0-3506-69FE-4C4A-6266ADF04299 closed its connection.
+1700777558: Client auto-334C1CA2-CE1E-C8CA-0C8C-F08EF2811E3D closed its connection.
+1700777558: Client auto-F4D2C11E-A492-A3F9-7E65-48166BC828FF closed its connection.
+1700777558: Client auto-744C171F-2D2B-B495-913A-5D9278E14161 closed its connection.
+1700777558: Client auto-EA809F77-B419-BDC4-1FDA-D808CA5E6CB9 closed its connection.
+1700777558: Client auto-3C3D0675-5A38-BDC6-93D7-D338ACAD5AEB closed its connection.
+1700777558: Client auto-2409F385-4DAC-84DF-777E-5250A322DEFE closed its connection.
+1700777558: Client auto-D57B37E8-5F5E-393F-8379-CE34BDAC5B1E closed its connection.
+1700777558: Client auto-81982D83-4080-A304-9D82-F2CA6FF365AF closed its connection.
+1700777558: Client auto-8B3C070D-FE55-EE59-EFC6-99F71C43C8F5 closed its connection.
+1700777558: Client auto-C46260A7-C377-4A7F-9644-ABAA671F73B3 closed its connection.
+1700777558: Client auto-25247D91-666E-7DA7-D3ED-BF73BD94B834 closed its connection.
+1700777558: Client auto-135A4909-2995-C1E2-A24B-BC6A0F950463 closed its connection.
+1700777558: Client auto-D3032B4B-A114-3D67-5122-CC17939C0201 closed its connection.
+1700777558: Client auto-E7726CEE-2BC2-4408-F960-5F638F39CEE7 closed its connection.
+1700777558: Client auto-BC69577C-EC53-2828-B888-72E399D26C74 closed its connection.
+1700777558: Client auto-EB8DEFBE-A03C-8FBD-D4CD-CA55CEB726D3 closed its connection.
+1700777558: Client auto-6DF53AF6-43DE-10ED-080E-BFA030347712 closed its connection.
+1700777558: Client auto-3B04A238-51D6-3BE0-D729-2F0C852EA872 closed its connection.
+1700777558: Client auto-F7CB76A9-458E-C287-8C01-C8FCD9CC9B82 closed its connection.
+1700777558: Client auto-199B335E-A3ED-1396-0588-EEBF96B3FFD9 closed its connection.
+1700777558: Client auto-D80D04CC-8052-54AA-25C0-1B8294063A16 closed its connection.
+1700777558: Client auto-AB994893-FC4F-C03F-CDCB-F35716866301 closed its connection.
+1700777558: Client auto-1AD89E66-52F6-C834-B6A5-9CE32B2577F4 closed its connection.
+1700777558: Client auto-F4BB10D6-7BCB-433B-593A-6ACFD8596FDE closed its connection.
+1700777558: Client auto-F09C40DC-216A-D071-902E-ECF3C112EBA4 closed its connection.
+1700777558: Client auto-17269F60-D420-0FD6-CDB4-E947D4EC947D closed its connection.
+1700777558: Client auto-ADBE9781-47C5-C250-B166-02023E63C738 closed its connection.
+1700777558: Client auto-E06D69E4-94A5-CA7D-1910-314EC6AE0FED closed its connection.
+1700777558: Client auto-72E5AC3B-7A15-A9D0-8D8D-E473C9E6D721 closed its connection.
+1700777558: Client auto-24814460-41C0-A741-F279-17C9E8CD4937 closed its connection.
+1700777558: Client auto-164520DA-C640-841B-819B-960B3F521F9C closed its connection.
+1700777558: Client auto-96A5E269-9DB3-B3DC-54CF-70D232162E46 closed its connection.
+1700777558: Client auto-F91EB478-F241-2411-603D-D792B1A0BF89 closed its connection.
+1700777558: Client auto-D0C7DA73-BA78-AF9E-033E-32BFBDC29684 closed its connection.
+1700777558: Client auto-ECB276CD-1C67-50AF-CC55-03F8A00F6E12 closed its connection.
+1700777558: Client auto-9F0C6365-FCCD-9541-C0F8-EAF4B00B35CE closed its connection.
+1700777558: Client auto-88C19C87-DAAC-AB80-1213-DB46B67A3AAB closed its connection.
+1700777558: Client auto-7F236745-EEDB-E878-B90F-7DCE1B3FE09A closed its connection.
+1700777558: Client auto-2CCB24E8-4FB4-5E28-4588-62068502D45B closed its connection.
+1700777558: Client auto-36D36931-372C-C826-C590-8724814DD6C5 closed its connection.
+1700777558: Client auto-58D7EE79-1027-B4B8-DF52-701B8E277F11 closed its connection.
+1700777558: Client auto-11B8ACEB-4E70-350E-74DD-BEEE0779CDD2 closed its connection.
+1700777558: Client auto-42DE1FB7-5348-4F68-8B53-A8188D11FCD6 closed its connection.
+1700777558: Client auto-7C65A249-5E3A-1F5D-4421-28DED0F96078 closed its connection.
+1700777558: Client auto-B217D05D-0AE0-7EE7-5C3E-A995AF594ECF closed its connection.
+1700777558: Client auto-13510BFD-4F47-AECC-7596-C6783AC102E6 closed its connection.
+1700777558: Client auto-0F34132D-2A9C-E281-DE9D-855C968074E3 closed its connection.
+1700777558: Client auto-AAEBF47B-712E-AC02-E2D2-F06B5EBA22B0 closed its connection.
+1700777558: Client auto-7F054EE7-3AC1-FEA1-3B7D-7E4F8525AAC3 closed its connection.
+1700777558: Client auto-F711B7E5-B1AA-52DF-FB0C-9E66FDC1EFE2 closed its connection.
+1700777558: Client auto-F7615EFE-8A08-7D3D-8C4B-CA79747EE68F closed its connection.
+1700777558: Client auto-98AC21E4-434D-B0F4-0385-6CDE741D795C closed its connection.
+1700777558: Client auto-6567187C-CF40-A810-46F6-CC8B22DAA944 closed its connection.
+1700777558: Client auto-B4A8F76E-EF80-2BBF-DE7D-684FD74A901F closed its connection.
+1700777558: Client auto-4A70CD0D-53EF-32BB-9D19-68669D97D94B closed its connection.
+1700777558: Client auto-7870B5B6-0245-C54B-F36A-90A5AFCA4C33 closed its connection.
+1700777558: Client auto-51270BA3-98A1-2768-B5CC-2360C52C459F closed its connection.
+1700777558: Client auto-80642D4B-025F-BFAA-E89A-3DCC866C9A32 closed its connection.
+1700777558: Client auto-AB70478B-963F-41FA-B0DC-F31A0E9C160F closed its connection.
+1700777558: Client auto-2A57389F-DE54-6BE6-DD0C-B77DBDEF7172 closed its connection.
+1700777558: Client auto-B12E750B-D44B-04D0-417F-8E80EE5ABF5E closed its connection.
+1700777558: Client auto-D103ED7C-C7BA-5024-DBEA-5EA63F50245E closed its connection.
+1700777558: Client auto-C44979A4-502A-38A8-2575-BE14D6287C23 closed its connection.
+1700777558: Client auto-EE1527A8-367D-119C-8254-ED3F6C70EE27 closed its connection.
+1700777558: Client auto-E9088060-89D5-B46B-0E51-5EDEC6A42D98 closed its connection.
+1700777558: Client auto-DBD735D7-407A-80BB-DD37-A6F1C1854992 closed its connection.
+1700777558: Client auto-ABA0A392-22B5-D5B9-3430-6817346FCC1D closed its connection.
+1700777558: Client auto-716FEC70-F8B0-0C4A-F8B1-1FFDCAF37738 closed its connection.
+1700777558: Client auto-511C74E1-4CF0-2DAA-6044-0D20176698BC closed its connection.
+1700777558: Client auto-0C3D2AA3-D5A2-1B21-5B4B-46C8ACF20CDC closed its connection.
+1700777558: Client auto-B758B6D4-3821-77ED-6568-554FC7A263C2 closed its connection.
+1700777558: Client auto-613B9306-15B6-2BBE-9B77-FF0A131AACE7 closed its connection.
+1700777558: Client auto-5526AA63-CFF0-DA5E-A7B0-C11BF8648DC9 closed its connection.
+1700777558: Client auto-274D505D-009E-1CF5-5663-F58940E91D62 closed its connection.
+1700777558: Client auto-D6D8C1BD-B2CD-50F3-C4CA-82BDF6E8EF37 closed its connection.
+1700777558: Client auto-5DE98EC9-E44D-758E-18F2-A506993ED085 closed its connection.
+1700777558: Client auto-4ECF1821-FDFF-B16E-4B56-680CBF16E597 closed its connection.
+1700777558: Client auto-6E0ADE68-666B-D165-2CBF-790332196113 closed its connection.
+1700777558: Client auto-3404D960-D19E-EB80-71FA-BF2AFFF057E1 closed its connection.
+1700777558: Client auto-32411F7C-5123-1283-C52A-ED7F3C8AA4BA closed its connection.
+1700777558: Client auto-AEB8F31B-D96A-6D3E-586E-9DE773105B03 closed its connection.
+1700777558: Client auto-B0A1425A-4D54-7D53-CCBD-CB7AB0EC7E46 closed its connection.
+1700777558: Client auto-811E6DA7-9890-5E77-4C97-E14AD4F4725B closed its connection.
+1700777558: Client auto-FCBD8C82-509E-9F32-8FFD-11997ED63DCE closed its connection.
+1700777558: Client auto-871EEBC6-933E-76BA-10B2-84DC3312CDBE closed its connection.
+1700777558: Client auto-E928EE2D-E1B6-E188-611D-D82740D7B157 closed its connection.
+1700777558: Client auto-5ADDB28F-42CA-DB2F-855A-5488044A34EF closed its connection.
+1700777558: Client auto-E80D51AD-C19B-1DC4-9E1E-DBE7424EE903 closed its connection.
+1700777558: Client auto-5BD23BA4-C15D-FDC1-7524-8A0F7142F0CF closed its connection.
+1700777558: Client auto-07FB9216-C4C8-F531-67AF-86D3DFF51230 closed its connection.
+1700777558: Client auto-FB6C173E-2C59-278D-1CFF-FA94E209DCBD closed its connection.
+1700777558: Client auto-0D07BBDC-8387-AA46-5C3E-DDB116963DE5 closed its connection.
+1700777558: Client auto-03E33129-B7FE-F231-FC18-04899434CE49 closed its connection.
+1700777558: Client auto-0EEE0EF7-4E72-F81C-3655-6D6389562245 closed its connection.
+1700777558: Client auto-4CC1CA10-A935-0FBE-1FAB-CEB76FAA8565 closed its connection.
+1700777558: Client auto-825AE41F-394A-1ACF-1277-DF994A86DD03 closed its connection.
+1700777558: Client auto-FA1B2138-BB11-D990-1B97-3E6DDA7BD640 closed its connection.
+1700777558: Client auto-2F7301A4-FBB4-1A35-F029-8AFAF9C6696A closed its connection.
+1700777558: Client auto-3ABB47B6-5BCC-EF76-44B8-4E8379A9AEF8 closed its connection.
+1700777558: Client auto-D156D1D9-D34D-0A82-9AA7-0DA848491F4E closed its connection.
+1700777558: Client auto-59863914-0C2C-3FE4-8F9C-6AA12D6FD18F closed its connection.
+1700777558: Client auto-2666CDE5-C5DC-4512-F093-CC9AF535DF22 closed its connection.
+1700777558: Client auto-E59D676F-A9FC-8F06-1568-0D3372058DEC closed its connection.
+1700777558: Client auto-86D8F178-AEC3-63A5-C62A-2B8064A81F0B closed its connection.
+1700777558: Client auto-8AEA9E8D-755C-C355-0F80-4B8CE6E5AC7C closed its connection.
+1700777558: Client auto-742F0EBF-D047-CD37-0D1E-8DF1504992AF closed its connection.
+1700777558: Client auto-A811E117-712F-9A98-D215-8A6BA567B9DD closed its connection.
+1700777558: Client auto-BA9940AA-965E-E003-8816-4F5061006652 closed its connection.
+1700777558: Client auto-D1C1696E-F3D9-A38B-7A3A-B6D7BC83E116 closed its connection.
+1700777558: Client auto-8C1DD762-9756-5A8D-E913-648652B9109E closed its connection.
+1700777558: Client auto-BE63018E-4F3E-8BC1-DEF8-D9790821D28E closed its connection.
+1700777558: Client auto-55BC05E9-1841-379F-6FCA-AA459BC049F4 closed its connection.
+1700777558: Client auto-CA0C49B1-3CC5-B163-BD34-B670B14C5A89 closed its connection.
+1700777558: Client auto-C55ABD72-9ABE-4087-410D-D65BD7F4BC8D closed its connection.
+1700777558: Client auto-1BF5E1FC-B9DF-A1FD-4987-997F896C304C closed its connection.
+1700777558: Client auto-F3404B43-1EA6-1407-2316-3D6530222DED closed its connection.
+1700777558: Client auto-FDB1E77C-002F-6697-AEDA-F239BAB476BB closed its connection.
+1700777558: Client auto-9052BB57-71F8-3415-DFAC-ECE85937B7E8 closed its connection.
+1700777558: Client auto-23DD4B7C-81C9-7E2F-B28A-501DB5C00A53 closed its connection.
+1700777558: Client auto-BB42D333-8804-9156-7615-C443BB22A919 closed its connection.
+1700777558: Client auto-EE7EFB5E-09C3-7A32-93B5-57FD751FD0F2 closed its connection.
+1700777558: Client auto-521C3E2A-B3C7-B966-97A0-91EE510339DB closed its connection.
+1700777558: Client auto-FD5FE673-C0FF-9184-21C1-0660D6A449B4 closed its connection.
+1700777558: Client auto-E4369E43-C192-493F-AC6B-35CD9C3F57F0 closed its connection.
+1700777558: Client auto-64697888-CC29-8C3F-2866-F1DBC52500E0 closed its connection.
+1700777558: Client auto-D5E06986-617C-7005-9799-F99650F011B4 closed its connection.
+1700777558: Client auto-11C8749F-96E5-7002-FA08-54DD08B1E797 closed its connection.
+1700777558: Client auto-840E19C7-9CD0-2F35-C4AD-17E1D1E4B1EE closed its connection.
+1700777558: Client auto-3B41176E-4204-73F3-4009-13DDB6463366 closed its connection.
+1700777558: Client auto-0AAEC10F-595F-DAC6-FE6B-574AAA1AD6D6 closed its connection.
+1700777558: Client auto-002F9D11-D7CC-2297-7C90-1E8073714D6B closed its connection.
+1700777558: Client auto-49C1964E-F9F5-0F31-2BB1-60AD041F0E29 closed its connection.
+1700777558: Client auto-63A8096D-DFDB-B370-E283-1433E5885A63 closed its connection.
+1700777558: Client auto-7C666C19-00D8-2666-7E90-64010332659A closed its connection.
+1700777558: Client auto-62E2C977-D023-6856-C809-7C42BD4424C5 closed its connection.
+1700777558: Client auto-2ED944CB-FC54-E315-A06C-10E80E8A82FE closed its connection.
+1700777558: Client auto-F69319FF-B3BE-5C46-FB4B-337B8E49E1E4 closed its connection.
+1700777558: Client auto-EABC2BDF-6034-1D8F-4631-C1AFABA6DC3A closed its connection.
+1700777558: Client auto-B3EF7DA2-D777-E8C6-AE9F-5BCBAFC1665F closed its connection.
+1700777558: Client auto-1E5E042F-9B27-A233-33B0-13E04ABCE179 closed its connection.
+1700777558: Client auto-17C75CFD-B35A-BE20-E277-17E80F17904F closed its connection.
+1700777558: Client auto-F73F5CA0-89DD-5D1C-9878-7CBCB7CECC08 closed its connection.
+1700777558: Client auto-395E4D3B-5B62-983F-FEE5-8C88391C5ECE closed its connection.
+1700777558: Client auto-1253988D-C348-D76F-7482-BDBB812252C0 closed its connection.
+1700777558: Client auto-20220288-BA2E-E9DE-0BEC-B222139A0349 closed its connection.
+1700777558: Client auto-4704979E-5EB0-25B8-A289-A74FF08EBA50 closed its connection.
+1700777558: Client auto-CCF3CAFD-E3AB-FE31-5A16-844170F735FC closed its connection.
+1700777558: Client auto-8276A291-6D4C-07A8-7C7B-DC50B016525C closed its connection.
+1700777558: Client auto-33903366-0098-ABA6-823C-43B71AC08C03 closed its connection.
+1700777558: Client auto-82ED03A8-859C-F602-5F93-8EBC0377CFC4 closed its connection.
+1700777558: Client auto-21A8A412-D21E-9C06-B169-8D753F10BF29 closed its connection.
+1700777558: Client auto-42704A13-BC84-D5E0-D490-E3827E7B65EF closed its connection.
+1700777558: Client auto-2C2D9E72-35AA-94A8-4224-A833DFBDFCBB closed its connection.
+1700777558: Client auto-AE74DAAE-71D6-EC2A-A4D8-6FDF6447B3CE closed its connection.
+1700777558: Client auto-88977517-C155-3B0A-8E23-9A68113F3181 closed its connection.
+1700777558: Client auto-D77CC0DD-BE06-2CEB-28A3-F145BE996F52 closed its connection.
+1700777558: Client auto-3E179A6C-BAEA-ACAF-E011-920FBBBFCD4E closed its connection.
+1700777558: Client auto-C7B6C960-AAE9-9E55-2536-2E650EE7A3CF closed its connection.
+1700777558: Client auto-C8FEFEFC-CF06-16E7-2D50-F6E5C498066C closed its connection.
+1700777558: Client auto-85915B31-1BFE-A449-46B4-70240E53190C closed its connection.
+1700777558: Client auto-9DF9CAB4-EC24-3575-A96D-C0236E19907B closed its connection.
+1700777558: Client auto-43C6015C-1B71-91CA-8F41-64E01F0A611F closed its connection.
+1700777558: Client auto-4288518F-87D5-6C8D-D214-6451214A6057 closed its connection.
+1700777558: Client auto-AF7DC431-2DE9-B84B-F16B-677706A299B3 closed its connection.
+1700777558: Client auto-F4D41BB1-3F1F-2809-DDC7-33DDE970468B closed its connection.
+1700777558: Client auto-1C35703D-7FF2-6FF8-6019-6F87FA8644B2 closed its connection.
+1700777558: Client auto-4B77D7DE-BFBA-F173-732E-900CA078E5E6 closed its connection.
+1700777558: Client auto-C376A705-74F7-6DCE-0810-81E96C419574 closed its connection.
+1700777558: Client auto-2663D34B-C2A4-DBA4-100D-CB84263B0621 closed its connection.
+1700777558: Client auto-01329012-6459-D1AC-936A-7DB4258C98D2 closed its connection.
+1700777558: Client auto-1D5037C9-1A4A-DCFA-9CF8-6BABC03FF6C9 closed its connection.
+1700777558: Client auto-5ABC8D36-AB3E-AB64-9CF0-1F2A6FD5DD62 closed its connection.
+1700777558: Client auto-89A63E12-F6B8-0056-2F4A-B747DB0EB57B closed its connection.
+1700777558: Client auto-35325DC2-3E87-4127-A164-F0E83B222DE6 closed its connection.
+1700777558: Client auto-F05D832D-5D7C-8E06-A20B-1BFC36A33AC0 closed its connection.
+1700777558: Client auto-320A8353-7F62-9B56-0944-2C6B094B6B29 closed its connection.
+1700777558: Client auto-B8FFAA12-2031-7917-90B3-D1E1A6629519 closed its connection.
+1700777558: Client auto-A40CFE6F-4963-09CA-358A-B4DB65DC1FF9 closed its connection.
+1700777558: Client auto-A39687B4-5CEF-7321-7ACD-1FB01018FE4D closed its connection.
+1700777558: Client auto-F014938F-68BD-2581-BC2D-BF08B86F25F5 closed its connection.
+1700777558: Client auto-F1DBC4E1-B189-4EA0-AA28-AF03D7186B5F closed its connection.
+1700777558: Client auto-7A289344-DE03-4DC1-1FA5-47EC655FCDB3 closed its connection.
+1700777558: Client auto-D17FF2E3-18AB-1833-04A5-414B9781175C closed its connection.
+1700777558: Client auto-332E06E5-4BB1-1BF5-C30B-0276455ABAFC closed its connection.
+1700777558: Client auto-0B32814F-CEC2-0B93-3A85-72E0BC84C8AD closed its connection.
+1700777559: New connection from 172.23.0.1:51378 on port 1883.
+1700777559: New connection from 172.23.0.1:51390 on port 1883.
+1700777559: New connection from 172.23.0.1:51398 on port 1883.
+1700777559: New connection from 172.23.0.1:51406 on port 1883.
+1700777559: New connection from 172.23.0.1:51416 on port 1883.
+1700777559: New connection from 172.23.0.1:51422 on port 1883.
+1700777559: New connection from 172.23.0.1:51426 on port 1883.
+1700777559: New connection from 172.23.0.1:51440 on port 1883.
+1700777559: New connection from 172.23.0.1:51450 on port 1883.
+1700777559: New connection from 172.23.0.1:51462 on port 1883.
+1700777559: New connection from 172.23.0.1:51472 on port 1883.
+1700777559: New connection from 172.23.0.1:51476 on port 1883.
+1700777559: New connection from 172.23.0.1:51492 on port 1883.
+1700777559: New connection from 172.23.0.1:51504 on port 1883.
+1700777559: New connection from 172.23.0.1:51512 on port 1883.
+1700777559: New connection from 172.23.0.1:51524 on port 1883.
+1700777559: New connection from 172.23.0.1:51538 on port 1883.
+1700777559: New connection from 172.23.0.1:51554 on port 1883.
+1700777559: New connection from 172.23.0.1:51558 on port 1883.
+1700777559: New connection from 172.23.0.1:51574 on port 1883.
+1700777559: New connection from 172.23.0.1:51578 on port 1883.
+1700777559: New connection from 172.23.0.1:51590 on port 1883.
+1700777559: New connection from 172.23.0.1:51598 on port 1883.
+1700777559: New connection from 172.23.0.1:51600 on port 1883.
+1700777559: New connection from 172.23.0.1:51608 on port 1883.
+1700777559: New connection from 172.23.0.1:51624 on port 1883.
+1700777559: New connection from 172.23.0.1:51634 on port 1883.
+1700777559: New connection from 172.23.0.1:51640 on port 1883.
+1700777559: New connection from 172.23.0.1:51654 on port 1883.
+1700777559: New connection from 172.23.0.1:51666 on port 1883.
+1700777559: New connection from 172.23.0.1:51682 on port 1883.
+1700777559: New connection from 172.23.0.1:51692 on port 1883.
+1700777559: New connection from 172.23.0.1:51698 on port 1883.
+1700777559: New connection from 172.23.0.1:51708 on port 1883.
+1700777559: New connection from 172.23.0.1:51710 on port 1883.
+1700777559: New connection from 172.23.0.1:51722 on port 1883.
+1700777559: New connection from 172.23.0.1:51738 on port 1883.
+1700777559: New connection from 172.23.0.1:51754 on port 1883.
+1700777559: New connection from 172.23.0.1:51766 on port 1883.
+1700777559: New connection from 172.23.0.1:51780 on port 1883.
+1700777559: New connection from 172.23.0.1:51786 on port 1883.
+1700777559: New connection from 172.23.0.1:51802 on port 1883.
+1700777559: New connection from 172.23.0.1:51812 on port 1883.
+1700777559: New connection from 172.23.0.1:51814 on port 1883.
+1700777559: New connection from 172.23.0.1:51816 on port 1883.
+1700777559: New connection from 172.23.0.1:51820 on port 1883.
+1700777559: New connection from 172.23.0.1:51834 on port 1883.
+1700777559: New connection from 172.23.0.1:51842 on port 1883.
+1700777559: New connection from 172.23.0.1:51846 on port 1883.
+1700777559: New connection from 172.23.0.1:51854 on port 1883.
+1700777559: New connection from 172.23.0.1:51868 on port 1883.
+1700777559: New connection from 172.23.0.1:51880 on port 1883.
+1700777559: New connection from 172.23.0.1:51884 on port 1883.
+1700777559: New connection from 172.23.0.1:51900 on port 1883.
+1700777559: New connection from 172.23.0.1:51914 on port 1883.
+1700777559: New connection from 172.23.0.1:51924 on port 1883.
+1700777559: New connection from 172.23.0.1:51936 on port 1883.
+1700777559: New connection from 172.23.0.1:51938 on port 1883.
+1700777559: New connection from 172.23.0.1:51940 on port 1883.
+1700777559: New connection from 172.23.0.1:51946 on port 1883.
+1700777559: New connection from 172.23.0.1:51954 on port 1883.
+1700777559: New connection from 172.23.0.1:51970 on port 1883.
+1700777559: New connection from 172.23.0.1:51986 on port 1883.
+1700777559: New connection from 172.23.0.1:51996 on port 1883.
+1700777559: New connection from 172.23.0.1:52008 on port 1883.
+1700777559: New connection from 172.23.0.1:52024 on port 1883.
+1700777559: New connection from 172.23.0.1:52036 on port 1883.
+1700777559: New connection from 172.23.0.1:52044 on port 1883.
+1700777559: New connection from 172.23.0.1:52056 on port 1883.
+1700777559: New connection from 172.23.0.1:52068 on port 1883.
+1700777559: New connection from 172.23.0.1:52074 on port 1883.
+1700777559: New connection from 172.23.0.1:52084 on port 1883.
+1700777559: New connection from 172.23.0.1:52076 on port 1883.
+1700777559: New connection from 172.23.0.1:52090 on port 1883.
+1700777559: New connection from 172.23.0.1:52096 on port 1883.
+1700777559: New connection from 172.23.0.1:52098 on port 1883.
+1700777559: New connection from 172.23.0.1:52104 on port 1883.
+1700777559: New connection from 172.23.0.1:52118 on port 1883.
+1700777559: New connection from 172.23.0.1:52124 on port 1883.
+1700777559: New connection from 172.23.0.1:52138 on port 1883.
+1700777559: New connection from 172.23.0.1:52140 on port 1883.
+1700777559: New connection from 172.23.0.1:52154 on port 1883.
+1700777559: New connection from 172.23.0.1:52170 on port 1883.
+1700777559: New connection from 172.23.0.1:52178 on port 1883.
+1700777559: New connection from 172.23.0.1:52182 on port 1883.
+1700777559: New connection from 172.23.0.1:52196 on port 1883.
+1700777559: New connection from 172.23.0.1:52200 on port 1883.
+1700777559: New connection from 172.23.0.1:52208 on port 1883.
+1700777559: New client connected from 172.23.0.1:51590 as auto-647E0B48-18AC-94F2-7394-4253F15A7132 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51578 as auto-93D32E4A-FA61-7089-7B1F-4E713156DDE2 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51574 as auto-DB23FD02-5477-A4E5-1036-331B6C579A59 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51558 as auto-AEC93122-FA12-28A7-7FEB-6D4FA03C19E6 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51554 as auto-3C7D5AF1-E79E-09A4-0FB8-3412B57C8B2B (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51538 as auto-0ABCE8C2-B33C-806C-2834-ECFEEB4165A3 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51524 as auto-26769528-D3FD-1B06-2DB2-5ACE18F8E476 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51512 as auto-6A9EB7C2-129E-A42C-D4A5-56FDFE230600 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51504 as auto-78455F09-D501-074D-D170-E8A1930BBE49 (p2, c1, k60).
+1700777559: Client auto-78455F09-D501-074D-D170-E8A1930BBE49 closed its connection.
+1700777559: New client connected from 172.23.0.1:51492 as auto-544B85FA-8A72-1408-D365-829E725D8004 (p2, c1, k60).
+1700777559: Client auto-544B85FA-8A72-1408-D365-829E725D8004 closed its connection.
+1700777559: New client connected from 172.23.0.1:51476 as auto-6886C55C-F658-A0BF-29E8-F206F87B75C6 (p2, c1, k60).
+1700777559: Client auto-6886C55C-F658-A0BF-29E8-F206F87B75C6 closed its connection.
+1700777559: New client connected from 172.23.0.1:51472 as auto-91775CE0-E355-F22B-7974-386B80114391 (p2, c1, k60).
+1700777559: Client auto-91775CE0-E355-F22B-7974-386B80114391 closed its connection.
+1700777559: New client connected from 172.23.0.1:51462 as auto-ABA392ED-CD2A-2439-AFB5-808D405B412A (p2, c1, k60).
+1700777559: Client auto-ABA392ED-CD2A-2439-AFB5-808D405B412A closed its connection.
+1700777559: New client connected from 172.23.0.1:51450 as auto-6F0ECC59-FFD7-EBF2-6904-B908EF459118 (p2, c1, k60).
+1700777559: Client auto-6F0ECC59-FFD7-EBF2-6904-B908EF459118 closed its connection.
+1700777559: New client connected from 172.23.0.1:51440 as auto-B065694E-7777-CD53-C33F-3DF4E87CEE6A (p2, c1, k60).
+1700777559: Client auto-B065694E-7777-CD53-C33F-3DF4E87CEE6A closed its connection.
+1700777559: New client connected from 172.23.0.1:51426 as auto-E7AC38FC-1C20-611C-7C4A-A22B7F3D560D (p2, c1, k60).
+1700777559: Client auto-E7AC38FC-1C20-611C-7C4A-A22B7F3D560D closed its connection.
+1700777559: New client connected from 172.23.0.1:51422 as auto-BD622616-3759-9F59-FB71-6B23511218DE (p2, c1, k60).
+1700777559: Client auto-BD622616-3759-9F59-FB71-6B23511218DE closed its connection.
+1700777559: New client connected from 172.23.0.1:51378 as auto-837568D8-7BB8-2EF5-0D24-C5FE17E72FF9 (p2, c1, k60).
+1700777559: Client auto-837568D8-7BB8-2EF5-0D24-C5FE17E72FF9 closed its connection.
+1700777559: New client connected from 172.23.0.1:51816 as auto-6D05FEA1-6266-76FF-0079-47EE40DC474D (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51946 as auto-389BB935-DB9B-555A-2E7D-16AFAE986650 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51940 as auto-7A8780A3-0EEF-AA04-7BBA-71226EC7EC3C (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51938 as auto-E130FA0D-9033-2D24-ABEF-A24BDD572522 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51936 as auto-40BB2A45-9D14-07CE-F5EA-2E85C9DB2BEC (p2, c1, k60).
+1700777559: Client auto-6D05FEA1-6266-76FF-0079-47EE40DC474D closed its connection.
+1700777559: Client auto-389BB935-DB9B-555A-2E7D-16AFAE986650 closed its connection.
+1700777559: New client connected from 172.23.0.1:51924 as auto-5D5A6D7E-B159-0A87-1BDA-608565C78E44 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51914 as auto-8F419664-CFD0-2790-A0E9-5B85DC38C50E (p2, c1, k60).
+1700777559: Client auto-7A8780A3-0EEF-AA04-7BBA-71226EC7EC3C closed its connection.
+1700777559: Client auto-E130FA0D-9033-2D24-ABEF-A24BDD572522 closed its connection.
+1700777559: Client auto-40BB2A45-9D14-07CE-F5EA-2E85C9DB2BEC closed its connection.
+1700777559: Client auto-5D5A6D7E-B159-0A87-1BDA-608565C78E44 closed its connection.
+1700777559: Client auto-8F419664-CFD0-2790-A0E9-5B85DC38C50E closed its connection.
+1700777559: New client connected from 172.23.0.1:51900 as auto-8F641CEE-CAE5-73EE-8ABB-C40F5659E2B7 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51884 as auto-EB8D3CD2-20AE-31E9-89C4-AAFA53E9B063 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51880 as auto-A86F6CDB-9FA6-0614-B8D7-698E9A8B54D0 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51868 as auto-90E2D583-64CD-C520-C5E4-1F61E31E2495 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51854 as auto-03D95CFF-E16C-5F03-2985-32502AF003BD (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51846 as auto-13A16597-E01D-3EDF-6B50-2390F49F8ECC (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51842 as auto-53F34B98-5C2E-D3E4-A443-42F6DE271D83 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51834 as auto-B9B9039A-6144-27ED-6E17-8C59162DCE90 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51820 as auto-1B219FF3-99E0-9CE9-2CDC-C0DBB5FBC738 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51666 as auto-534D8887-15C1-9E3B-A3ED-FE671AF3C231 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52090 as auto-7D64744E-8D75-3454-94BE-1A0CFD6792C9 (p2, c1, k60).
+1700777559: Client auto-8F641CEE-CAE5-73EE-8ABB-C40F5659E2B7 closed its connection.
+1700777559: Client auto-EB8D3CD2-20AE-31E9-89C4-AAFA53E9B063 closed its connection.
+1700777559: Client auto-A86F6CDB-9FA6-0614-B8D7-698E9A8B54D0 closed its connection.
+1700777559: Client auto-90E2D583-64CD-C520-C5E4-1F61E31E2495 closed its connection.
+1700777559: Client auto-03D95CFF-E16C-5F03-2985-32502AF003BD closed its connection.
+1700777559: Client auto-13A16597-E01D-3EDF-6B50-2390F49F8ECC closed its connection.
+1700777559: Client auto-53F34B98-5C2E-D3E4-A443-42F6DE271D83 closed its connection.
+1700777559: Client auto-B9B9039A-6144-27ED-6E17-8C59162DCE90 closed its connection.
+1700777559: Client auto-1B219FF3-99E0-9CE9-2CDC-C0DBB5FBC738 closed its connection.
+1700777559: Client auto-534D8887-15C1-9E3B-A3ED-FE671AF3C231 closed its connection.
+1700777559: Client auto-7D64744E-8D75-3454-94BE-1A0CFD6792C9 closed its connection.
+1700777559: New connection from 172.23.0.1:52210 on port 1883.
+1700777559: Client auto-647E0B48-18AC-94F2-7394-4253F15A7132 closed its connection.
+1700777559: Client auto-93D32E4A-FA61-7089-7B1F-4E713156DDE2 closed its connection.
+1700777559: Client auto-DB23FD02-5477-A4E5-1036-331B6C579A59 closed its connection.
+1700777559: Client auto-AEC93122-FA12-28A7-7FEB-6D4FA03C19E6 closed its connection.
+1700777559: Client auto-3C7D5AF1-E79E-09A4-0FB8-3412B57C8B2B closed its connection.
+1700777559: Client auto-0ABCE8C2-B33C-806C-2834-ECFEEB4165A3 closed its connection.
+1700777559: Client auto-26769528-D3FD-1B06-2DB2-5ACE18F8E476 closed its connection.
+1700777559: Client auto-6A9EB7C2-129E-A42C-D4A5-56FDFE230600 closed its connection.
+1700777559: New client connected from 172.23.0.1:52076 as auto-DDA0F712-3787-9C1F-40EA-C6146AE8E045 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52074 as auto-91CBFCFE-D8F2-5C4B-435A-DB50B707F995 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52084 as auto-A1918FF5-0910-93D6-3813-34A8F93191AE (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52068 as auto-A49DD706-32CE-2666-199F-4C7C182988EC (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51996 as auto-21BF212B-1A39-7E4F-C601-87CFC620D5E2 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52056 as auto-3E4414C0-0961-580E-F1B4-6E1C64C9A5F1 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52044 as auto-E3F4C667-8966-BAD8-2BDF-01FB129E4151 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52036 as auto-4755CF46-59E7-ADC9-A255-C7BE529C6A24 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52024 as auto-07EFF3F5-F544-1CBB-59C7-BB99D0FDE9B6 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52008 as auto-E0C0B00B-C851-16D4-B5AB-EEECCF04CBB7 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51986 as auto-E0B1C468-3481-2C6B-D242-E691C5FDB3B8 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51970 as auto-4F421960-2FDC-7C27-C42F-5F2C35A93381 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51954 as auto-27B38341-A2BC-2165-B877-468DE9C8F82A (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51814 as auto-9245C540-2ABE-7216-C210-A8240ADDEE7D (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51812 as auto-C809AB7B-8F7F-C980-DE0E-76B6E1613683 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51802 as auto-82789584-2E4B-BEF2-6868-D9F377AC8E9B (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51786 as auto-9C1C9B5F-9465-2490-93D6-82421C1E3213 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51780 as auto-0760ED65-DE4A-FC54-A833-4CECB04F7F50 (p2, c1, k60).
+1700777559: New connection from 172.23.0.1:52214 on port 1883.
+1700777559: New connection from 172.23.0.1:52218 on port 1883.
+1700777559: New connection from 172.23.0.1:52222 on port 1883.
+1700777559: New connection from 172.23.0.1:52224 on port 1883.
+1700777559: Client auto-DDA0F712-3787-9C1F-40EA-C6146AE8E045 closed its connection.
+1700777559: Client auto-91CBFCFE-D8F2-5C4B-435A-DB50B707F995 closed its connection.
+1700777559: Client auto-A1918FF5-0910-93D6-3813-34A8F93191AE closed its connection.
+1700777559: Client auto-A49DD706-32CE-2666-199F-4C7C182988EC closed its connection.
+1700777559: Client auto-21BF212B-1A39-7E4F-C601-87CFC620D5E2 closed its connection.
+1700777559: Client auto-3E4414C0-0961-580E-F1B4-6E1C64C9A5F1 closed its connection.
+1700777559: Client auto-E3F4C667-8966-BAD8-2BDF-01FB129E4151 closed its connection.
+1700777559: Client auto-4755CF46-59E7-ADC9-A255-C7BE529C6A24 closed its connection.
+1700777559: Client auto-07EFF3F5-F544-1CBB-59C7-BB99D0FDE9B6 closed its connection.
+1700777559: Client auto-E0C0B00B-C851-16D4-B5AB-EEECCF04CBB7 closed its connection.
+1700777559: Client auto-E0B1C468-3481-2C6B-D242-E691C5FDB3B8 closed its connection.
+1700777559: Client auto-4F421960-2FDC-7C27-C42F-5F2C35A93381 closed its connection.
+1700777559: Client auto-27B38341-A2BC-2165-B877-468DE9C8F82A closed its connection.
+1700777559: Client auto-9245C540-2ABE-7216-C210-A8240ADDEE7D closed its connection.
+1700777559: Client auto-C809AB7B-8F7F-C980-DE0E-76B6E1613683 closed its connection.
+1700777559: Client auto-82789584-2E4B-BEF2-6868-D9F377AC8E9B closed its connection.
+1700777559: Client auto-9C1C9B5F-9465-2490-93D6-82421C1E3213 closed its connection.
+1700777559: Client auto-0760ED65-DE4A-FC54-A833-4CECB04F7F50 closed its connection.
+1700777559: New client connected from 172.23.0.1:51766 as auto-2DE53FF6-3F7A-5B22-C5F5-A5E6A34ED290 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51754 as auto-8728650C-3B73-7800-8B59-63430539BDEE (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51738 as auto-645D0910-A8FE-BD55-26D4-76557E25BE82 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51722 as auto-5F217A12-5CF9-CD07-524D-31F4BE365707 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51710 as auto-24202EFD-87D0-041B-1B86-A4445E7C7C18 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51708 as auto-AB057C8E-A8E4-6F97-C483-2D06D58337C9 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51698 as auto-AB18A758-17D0-CE11-2A09-87336C75E07B (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51692 as auto-BB28C37D-55C5-CA75-4CA9-39488A6FA4BD (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51682 as auto-5ADE7922-4C47-28F1-CE15-B5AFD88260FE (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51416 as auto-A02ABC89-144C-74DE-775B-6F8B57212DA3 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51654 as auto-16E7B5CD-A91A-5AD1-FB93-0337C0007A6F (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51640 as auto-539DD6EC-4856-8C3F-8819-A7F5F87F3AF5 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51634 as auto-54B1E215-0D05-C38A-63A1-8B383C109C94 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51624 as auto-A36DED4D-FE30-890E-EA8F-AD84E26DE6A1 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51608 as auto-C6A009D5-8488-C59E-64A1-3A24E454B65A (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51600 as auto-EADED8B7-41BB-2C70-C733-D62A49B55853 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51598 as auto-330F3F43-3224-4908-D18F-DE5B04EF675D (p2, c1, k60).
+1700777559: Client auto-2DE53FF6-3F7A-5B22-C5F5-A5E6A34ED290 closed its connection.
+1700777559: Client auto-8728650C-3B73-7800-8B59-63430539BDEE closed its connection.
+1700777559: Client auto-645D0910-A8FE-BD55-26D4-76557E25BE82 closed its connection.
+1700777559: Client auto-5F217A12-5CF9-CD07-524D-31F4BE365707 closed its connection.
+1700777559: Client auto-24202EFD-87D0-041B-1B86-A4445E7C7C18 closed its connection.
+1700777559: Client auto-AB057C8E-A8E4-6F97-C483-2D06D58337C9 closed its connection.
+1700777559: Client auto-AB18A758-17D0-CE11-2A09-87336C75E07B closed its connection.
+1700777559: Client auto-BB28C37D-55C5-CA75-4CA9-39488A6FA4BD closed its connection.
+1700777559: Client auto-5ADE7922-4C47-28F1-CE15-B5AFD88260FE closed its connection.
+1700777559: Client auto-A02ABC89-144C-74DE-775B-6F8B57212DA3 closed its connection.
+1700777559: Client auto-16E7B5CD-A91A-5AD1-FB93-0337C0007A6F closed its connection.
+1700777559: Client auto-539DD6EC-4856-8C3F-8819-A7F5F87F3AF5 closed its connection.
+1700777559: Client auto-54B1E215-0D05-C38A-63A1-8B383C109C94 closed its connection.
+1700777559: Client auto-A36DED4D-FE30-890E-EA8F-AD84E26DE6A1 closed its connection.
+1700777559: Client auto-C6A009D5-8488-C59E-64A1-3A24E454B65A closed its connection.
+1700777559: Client auto-EADED8B7-41BB-2C70-C733-D62A49B55853 closed its connection.
+1700777559: Client auto-330F3F43-3224-4908-D18F-DE5B04EF675D closed its connection.
+1700777559: New client connected from 172.23.0.1:51406 as auto-CB7CFE53-96B9-D2BB-207E-4F2FA53F1AA2 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51398 as auto-565BC195-318F-6DA2-8769-531725EF88C4 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:51390 as auto-FCE03CAE-3C73-D2C2-CAEB-895F7AFA2DA1 (p2, c1, k60).
+1700777559: Client auto-CB7CFE53-96B9-D2BB-207E-4F2FA53F1AA2 closed its connection.
+1700777559: Client auto-565BC195-318F-6DA2-8769-531725EF88C4 closed its connection.
+1700777559: Client auto-FCE03CAE-3C73-D2C2-CAEB-895F7AFA2DA1 closed its connection.
+1700777559: New client connected from 172.23.0.1:52170 as auto-2E01E4DB-C0D5-6D98-0A78-6786F2453A1E (p2, c1, k60).
+1700777559: Client auto-2E01E4DB-C0D5-6D98-0A78-6786F2453A1E closed its connection.
+1700777559: New client connected from 172.23.0.1:52098 as auto-28FB6C1D-E56F-21E6-466A-EC1E5D117046 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52104 as auto-CB00B9FF-6146-B0E5-61F4-8F49D8282E21 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52096 as auto-C7920AEE-AC20-B9CE-1844-994F26110D0C (p2, c1, k60).
+1700777559: Client auto-28FB6C1D-E56F-21E6-466A-EC1E5D117046 closed its connection.
+1700777559: Client auto-CB00B9FF-6146-B0E5-61F4-8F49D8282E21 closed its connection.
+1700777559: Client auto-C7920AEE-AC20-B9CE-1844-994F26110D0C closed its connection.
+1700777559: New client connected from 172.23.0.1:52154 as auto-1B1D666F-2459-CD1F-84B2-95291F2F6E45 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52140 as auto-BF611BC1-3B85-E132-6C30-3AB28E9CE091 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52138 as auto-13E56525-661A-882E-3402-9F15714A57D7 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52124 as auto-D1D1945F-84EA-607B-BE9D-EFA93E539D90 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52118 as auto-70306616-3632-AA45-B2CF-6CA2A91ABD86 (p2, c1, k60).
+1700777559: Client auto-1B1D666F-2459-CD1F-84B2-95291F2F6E45 closed its connection.
+1700777559: Client auto-BF611BC1-3B85-E132-6C30-3AB28E9CE091 closed its connection.
+1700777559: Client auto-13E56525-661A-882E-3402-9F15714A57D7 closed its connection.
+1700777559: Client auto-D1D1945F-84EA-607B-BE9D-EFA93E539D90 closed its connection.
+1700777559: Client auto-70306616-3632-AA45-B2CF-6CA2A91ABD86 closed its connection.
+1700777559: New connection from 172.23.0.1:52234 on port 1883.
+1700777559: New connection from 172.23.0.1:52236 on port 1883.
+1700777559: New connection from 172.23.0.1:52242 on port 1883.
+1700777559: New connection from 172.23.0.1:52252 on port 1883.
+1700777559: New connection from 172.23.0.1:52266 on port 1883.
+1700777559: New connection from 172.23.0.1:52272 on port 1883.
+1700777559: New connection from 172.23.0.1:52284 on port 1883.
+1700777559: New connection from 172.23.0.1:52288 on port 1883.
+1700777559: New connection from 172.23.0.1:52302 on port 1883.
+1700777559: New connection from 172.23.0.1:52312 on port 1883.
+1700777559: New connection from 172.23.0.1:52326 on port 1883.
+1700777559: New connection from 172.23.0.1:52338 on port 1883.
+1700777559: New connection from 172.23.0.1:52348 on port 1883.
+1700777559: New connection from 172.23.0.1:52360 on port 1883.
+1700777559: New connection from 172.23.0.1:52368 on port 1883.
+1700777559: New connection from 172.23.0.1:52370 on port 1883.
+1700777559: New connection from 172.23.0.1:52386 on port 1883.
+1700777559: New connection from 172.23.0.1:52400 on port 1883.
+1700777559: New connection from 172.23.0.1:52414 on port 1883.
+1700777559: New connection from 172.23.0.1:52430 on port 1883.
+1700777559: New connection from 172.23.0.1:52434 on port 1883.
+1700777559: New connection from 172.23.0.1:52450 on port 1883.
+1700777559: New connection from 172.23.0.1:52454 on port 1883.
+1700777559: New connection from 172.23.0.1:52456 on port 1883.
+1700777559: New connection from 172.23.0.1:52464 on port 1883.
+1700777559: New connection from 172.23.0.1:52478 on port 1883.
+1700777559: New client connected from 172.23.0.1:52178 as auto-D7080B3D-CFCD-D172-F3C7-3A6D8FB0E687 (p2, c1, k60).
+1700777559: Client auto-D7080B3D-CFCD-D172-F3C7-3A6D8FB0E687 closed its connection.
+1700777559: New client connected from 172.23.0.1:52182 as auto-56371689-D2CC-0A1F-5D4F-E35F702C4FF5 (p2, c1, k60).
+1700777559: Client auto-56371689-D2CC-0A1F-5D4F-E35F702C4FF5 closed its connection.
+1700777559: New client connected from 172.23.0.1:52196 as auto-8AF675C9-E0F5-FF6D-E120-BE9F7365B4C8 (p2, c1, k60).
+1700777559: Client auto-8AF675C9-E0F5-FF6D-E120-BE9F7365B4C8 closed its connection.
+1700777559: New connection from 172.23.0.1:52482 on port 1883.
+1700777559: New connection from 172.23.0.1:52498 on port 1883.
+1700777559: New connection from 172.23.0.1:52504 on port 1883.
+1700777559: New connection from 172.23.0.1:52520 on port 1883.
+1700777559: New connection from 172.23.0.1:52522 on port 1883.
+1700777559: New connection from 172.23.0.1:52538 on port 1883.
+1700777559: New connection from 172.23.0.1:52552 on port 1883.
+1700777559: New connection from 172.23.0.1:52564 on port 1883.
+1700777559: New connection from 172.23.0.1:52568 on port 1883.
+1700777559: New client connected from 172.23.0.1:52210 as auto-5E4BE846-2476-5340-5FA4-67880D63EB1A (p2, c1, k60).
+1700777559: Client auto-5E4BE846-2476-5340-5FA4-67880D63EB1A closed its connection.
+1700777559: New client connected from 172.23.0.1:52224 as auto-A24520D2-A1FD-AAC4-5CF4-973B41BDCBBA (p2, c1, k60).
+1700777559: Client auto-A24520D2-A1FD-AAC4-5CF4-973B41BDCBBA closed its connection.
+1700777559: New client connected from 172.23.0.1:52222 as auto-73CA1B64-B225-F22E-B6F4-F56A17395F80 (p2, c1, k60).
+1700777559: Client auto-73CA1B64-B225-F22E-B6F4-F56A17395F80 closed its connection.
+1700777559: New client connected from 172.23.0.1:52218 as auto-1196A961-576A-4929-71F6-3F06A80BF841 (p2, c1, k60).
+1700777559: Client auto-1196A961-576A-4929-71F6-3F06A80BF841 closed its connection.
+1700777559: New client connected from 172.23.0.1:52214 as auto-629DD93C-38D0-FEDC-5D7F-16AB17F54AC7 (p2, c1, k60).
+1700777559: Client auto-629DD93C-38D0-FEDC-5D7F-16AB17F54AC7 closed its connection.
+1700777559: New client connected from 172.23.0.1:52200 as auto-26FE1A24-370F-EF74-7D02-B04E82644B94 (p2, c1, k60).
+1700777559: Client auto-26FE1A24-370F-EF74-7D02-B04E82644B94 closed its connection.
+1700777559: New client connected from 172.23.0.1:52208 as auto-3FE6E990-5FA5-CF15-C9E3-A839041621CB (p2, c1, k60).
+1700777559: Client auto-3FE6E990-5FA5-CF15-C9E3-A839041621CB closed its connection.
+1700777559: New client connected from 172.23.0.1:52338 as auto-DDE032FE-EA85-76F0-913C-F35F0757ECF2 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52312 as auto-9A3A090F-5433-A395-BA53-EAFA3258278F (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52302 as auto-CE8CD5C0-8FE6-B3D7-1E49-6B8782E66868 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52288 as auto-D71999C8-8153-9D2E-3E97-6809E77E9D72 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52284 as auto-679423AE-3B94-A755-358B-2B44FEEF8277 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52272 as auto-1DFC58A4-B37E-E0E4-063E-A531056F8E0A (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52266 as auto-8BE17E57-73DC-5706-94E8-7C6FDA2627A6 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52252 as auto-5B76F94C-C8A0-6588-50A1-C1DD4DD6CDCF (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52242 as auto-F259EA9D-D63B-7C15-97B9-166C47205913 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52236 as auto-C69F7F49-98AE-5A04-E3FA-B9FDD3F37C11 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52326 as auto-C6BAC363-487D-EB30-DEDA-0C35614267B2 (p2, c1, k60).
+1700777559: Client auto-C69F7F49-98AE-5A04-E3FA-B9FDD3F37C11 closed its connection.
+1700777559: Client auto-D71999C8-8153-9D2E-3E97-6809E77E9D72 closed its connection.
+1700777559: Client auto-679423AE-3B94-A755-358B-2B44FEEF8277 closed its connection.
+1700777559: Client auto-DDE032FE-EA85-76F0-913C-F35F0757ECF2 closed its connection.
+1700777559: Client auto-C6BAC363-487D-EB30-DEDA-0C35614267B2 closed its connection.
+1700777559: Client auto-9A3A090F-5433-A395-BA53-EAFA3258278F closed its connection.
+1700777559: Client auto-1DFC58A4-B37E-E0E4-063E-A531056F8E0A closed its connection.
+1700777559: Client auto-8BE17E57-73DC-5706-94E8-7C6FDA2627A6 closed its connection.
+1700777559: Client auto-5B76F94C-C8A0-6588-50A1-C1DD4DD6CDCF closed its connection.
+1700777559: Client auto-CE8CD5C0-8FE6-B3D7-1E49-6B8782E66868 closed its connection.
+1700777559: Client auto-F259EA9D-D63B-7C15-97B9-166C47205913 closed its connection.
+1700777559: New client connected from 172.23.0.1:52482 as auto-B9FA438B-C516-A5D6-F4B1-E05AB115E787 (p2, c1, k60).
+1700777559: Client auto-B9FA438B-C516-A5D6-F4B1-E05AB115E787 closed its connection.
+1700777559: New client connected from 172.23.0.1:52568 as auto-33E7B8AD-726C-F90C-195E-A3F634E999D1 (p2, c1, k60).
+1700777559: Client auto-33E7B8AD-726C-F90C-195E-A3F634E999D1 closed its connection.
+1700777559: New client connected from 172.23.0.1:52564 as auto-B3D5EB06-E0C9-785B-D31D-DC6AAD7B5125 (p2, c1, k60).
+1700777559: Client auto-B3D5EB06-E0C9-785B-D31D-DC6AAD7B5125 closed its connection.
+1700777559: New client connected from 172.23.0.1:52552 as auto-0F5CB336-CA45-18F5-34A1-1C50D00BF5C4 (p2, c1, k60).
+1700777559: Client auto-0F5CB336-CA45-18F5-34A1-1C50D00BF5C4 closed its connection.
+1700777559: New client connected from 172.23.0.1:52538 as auto-7760437F-B36D-35E3-8F59-8552B06AD051 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52450 as auto-C9EDCF5F-2262-5319-8F2E-E340855F1C2A (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52522 as auto-AF4780B0-A84A-8B60-F971-A8DAC5BE61DE (p2, c1, k60).
+1700777559: Client auto-AF4780B0-A84A-8B60-F971-A8DAC5BE61DE closed its connection.
+1700777559: New client connected from 172.23.0.1:52520 as auto-096EBFD5-8074-1FDD-220D-CFE94F1FCEBB (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52504 as auto-83E3072B-E41C-E146-1A89-624419C9C4A4 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52498 as auto-26B008D0-B130-9216-69D0-498EAA1E3430 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52234 as auto-831E62F1-2E35-875B-8192-F4C408686727 (p2, c1, k60).
+1700777559: Client auto-096EBFD5-8074-1FDD-220D-CFE94F1FCEBB closed its connection.
+1700777559: Client auto-83E3072B-E41C-E146-1A89-624419C9C4A4 closed its connection.
+1700777559: Client auto-26B008D0-B130-9216-69D0-498EAA1E3430 closed its connection.
+1700777559: Client auto-831E62F1-2E35-875B-8192-F4C408686727 closed its connection.
+1700777559: New client connected from 172.23.0.1:52478 as auto-B83DA0BC-FB69-9B65-DF7E-9F56E5105E86 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52464 as auto-3C24A171-594C-8DD6-1484-B35FD7A42266 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52456 as auto-0D70FE82-0825-8288-A709-12B176ADECB0 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52454 as auto-0849A6CB-0F12-39FC-6E2A-FB66332A2AF0 (p2, c1, k60).
+1700777559: Client auto-B83DA0BC-FB69-9B65-DF7E-9F56E5105E86 closed its connection.
+1700777559: Client auto-3C24A171-594C-8DD6-1484-B35FD7A42266 closed its connection.
+1700777559: Client auto-0D70FE82-0825-8288-A709-12B176ADECB0 closed its connection.
+1700777559: Client auto-0849A6CB-0F12-39FC-6E2A-FB66332A2AF0 closed its connection.
+1700777559: New client connected from 172.23.0.1:52386 as auto-52631B97-CAFE-DF45-83C6-45416DF98425 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52434 as auto-072F4611-D57B-280B-207E-976516F8191A (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52430 as auto-165D252F-24AE-DDD1-6504-A1824338B0C1 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52414 as auto-69975654-3512-883F-197A-03CD392F35A6 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52400 as auto-B8775407-D7AF-2FF9-71C6-EDEA4FA840D7 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52368 as auto-F4721547-0E5E-BFAC-96E7-BFEA28C81359 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52370 as auto-9F8C1475-EF7E-D5D5-B431-223D65218185 (p2, c1, k60).
+1700777559: New client connected from 172.23.0.1:52360 as auto-1FEE3A88-B4AD-DC71-6034-9C0D4B139504 (p2, c1, k60).
+1700777559: Client auto-52631B97-CAFE-DF45-83C6-45416DF98425 closed its connection.
+1700777559: Client auto-072F4611-D57B-280B-207E-976516F8191A closed its connection.
+1700777559: Client auto-165D252F-24AE-DDD1-6504-A1824338B0C1 closed its connection.
+1700777559: Client auto-69975654-3512-883F-197A-03CD392F35A6 closed its connection.
+1700777559: Client auto-B8775407-D7AF-2FF9-71C6-EDEA4FA840D7 closed its connection.
+1700777559: Client auto-F4721547-0E5E-BFAC-96E7-BFEA28C81359 closed its connection.
+1700777559: Client auto-9F8C1475-EF7E-D5D5-B431-223D65218185 closed its connection.
+1700777559: Client auto-1FEE3A88-B4AD-DC71-6034-9C0D4B139504 closed its connection.
+1700777559: New client connected from 172.23.0.1:52348 as auto-D9602C3A-9873-996E-52F6-94D24B82FB71 (p2, c1, k60).
+1700777559: Client auto-D9602C3A-9873-996E-52F6-94D24B82FB71 closed its connection.
+1700777559: Client auto-7760437F-B36D-35E3-8F59-8552B06AD051 closed its connection.
+1700777559: Client auto-C9EDCF5F-2262-5319-8F2E-E340855F1C2A closed its connection.
+1700778224: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700778224: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700778224: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700780025: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700780025: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700780025: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700781826: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700781826: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700781826: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700783627: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700783627: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700783627: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700785428: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700785428: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700785428: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700787229: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700787229: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700787229: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700789030: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700789030: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700789030: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700790831: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700790831: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700790831: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700792632: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700792632: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700792632: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700794433: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700794433: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700794433: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700796234: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700796234: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700796234: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700798035: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700798035: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700798035: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700799836: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700799836: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700799836: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700801637: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700801637: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700801637: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700803438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700803438: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700803438: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700805239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700805239: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700805239: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700807038: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700807038: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700807038: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700808839: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700808839: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700808839: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700810640: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700810640: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700810640: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700812441: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700812441: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700812441: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700814242: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700814242: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700814242: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700816043: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700816043: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700816043: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700817844: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700817844: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700817844: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700819645: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700819645: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700819645: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700821446: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700821446: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700821446: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700823247: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700823247: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700823247: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700825048: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700825048: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700825048: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700826849: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700826849: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700826849: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700828650: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700828650: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700828650: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700829043: New connection from 172.23.0.1:34774 on port 1883.
+1700829043: New client connected from 172.23.0.1:34774 as auto-2C00D8A5-6E59-9B98-E432-F3414E1B33A2 (p2, c1, k60).
+1700829099: Client auto-2C00D8A5-6E59-9B98-E432-F3414E1B33A2 closed its connection.
+1700829101: New connection from 172.23.0.1:60680 on port 1883.
+1700829101: New client connected from 172.23.0.1:60680 as auto-7573B715-414B-D3D0-DAC1-0B92A6218751 (p2, c1, k60).
+1700829229: Client auto-7573B715-414B-D3D0-DAC1-0B92A6218751 closed its connection.
+1700829740: New connection from 172.23.0.1:37808 on port 1883.
+1700829740: New client connected from 172.23.0.1:37808 as auto-A2FF9853-BF86-8A95-1F1E-EE25A404516E (p2, c1, k60).
+1700830113: Client auto-A2FF9853-BF86-8A95-1F1E-EE25A404516E closed its connection.
+1700830175: New connection from 172.23.0.1:46896 on port 1883.
+1700830175: New client connected from 172.23.0.1:46896 as auto-818E2475-E40F-914B-0CF4-1852D6801A3E (p2, c1, k60).
+1700830265: Client auto-818E2475-E40F-914B-0CF4-1852D6801A3E closed its connection.
+1700830272: New connection from 172.23.0.1:36842 on port 1883.
+1700830272: New client connected from 172.23.0.1:36842 as auto-353E8F1D-B238-EFF3-8EFF-0C5291547C4C (p2, c1, k60).
+1700830451: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700830451: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700830451: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700830457: Client auto-353E8F1D-B238-EFF3-8EFF-0C5291547C4C closed its connection.
+1700830463: New connection from 172.23.0.1:47480 on port 1883.
+1700830463: New client connected from 172.23.0.1:47480 as auto-1FFB63FB-B027-82FA-A8C7-831C10C12183 (p2, c1, k60).
+1700830690: Client auto-1FFB63FB-B027-82FA-A8C7-831C10C12183 closed its connection.
+1700830698: New connection from 172.23.0.1:47704 on port 1883.
+1700830698: New client connected from 172.23.0.1:47704 as auto-473C178D-E0BC-40F8-46B9-5325AECB8AD6 (p2, c1, k60).
+1700830789: Client auto-473C178D-E0BC-40F8-46B9-5325AECB8AD6 closed its connection.
+1700830814: New connection from 172.23.0.1:34086 on port 1883.
+1700830814: New client connected from 172.23.0.1:34086 as auto-4D5776A6-1162-EB5E-CA37-D319C39CE1D9 (p2, c1, k60).
+1700830851: Client auto-4D5776A6-1162-EB5E-CA37-D319C39CE1D9 closed its connection.
+1700830875: Client auto-39ADB4C6-E516-954A-E4C6-585B171897B5 closed its connection.
+1700830878: Client auto-AE008671-E4F9-3D11-D0AE-CDAC844ECA63 closed its connection.
+1700832252: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700832252: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700832252: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700834053: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700834053: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700834053: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700835854: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700835854: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700835854: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700837655: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700837655: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700837655: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700839456: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700839456: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700839456: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700841257: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700841257: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700841257: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700843058: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700843058: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700843058: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700844859: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700844859: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700844859: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700846660: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700846660: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700846660: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700848461: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700848461: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700848461: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700850262: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700850262: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700850262: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700852063: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700852063: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700852063: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700852853: New connection from 172.23.0.1:60344 on port 1883.
+1700852853: New client connected from 172.23.0.1:60344 as auto-BC625435-6A19-ACBB-EE6C-05539D603742 (p2, c1, k60).
+1700852869: New connection from 172.23.0.1:39334 on port 1883.
+1700852869: New client connected from 172.23.0.1:39334 as auto-7422943D-0C5D-FFD6-E655-1126BC4128B2 (p2, c1, k60).
+1700852891: New connection from 172.23.0.1:39706 on port 1883.
+1700852891: New client connected from 172.23.0.1:39706 as auto-1523F781-4679-4F9B-2737-6FADBA265F3E (p2, c1, k60).
+1700852911: Client auto-7422943D-0C5D-FFD6-E655-1126BC4128B2 closed its connection.
+1700852932: New connection from 172.23.0.1:37440 on port 1883.
+1700852932: New client connected from 172.23.0.1:37440 as auto-C7ABF0AB-A214-C6FB-5BA3-00C7AB123D7B (p2, c1, k60).
+1700852946: New connection from 172.23.0.1:59440 on port 1883.
+1700852946: New client connected from 172.23.0.1:59440 as auto-93AB6F2A-5746-58CD-DC70-77A627546C98 (p2, c1, k60).
+1700852954: Client auto-1523F781-4679-4F9B-2737-6FADBA265F3E closed its connection.
+1700852981: Client auto-93AB6F2A-5746-58CD-DC70-77A627546C98 closed its connection.
+1700853290: New connection from 172.23.0.1:35038 on port 1883.
+1700853290: New client connected from 172.23.0.1:35038 as auto-FD33C189-758D-58AB-E4B2-7E3FAA5ED2C1 (p2, c1, k60).
+1700853416: Client auto-FD33C189-758D-58AB-E4B2-7E3FAA5ED2C1 closed its connection.
+1700853864: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700853864: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700853864: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700854246: Client auto-BC625435-6A19-ACBB-EE6C-05539D603742 closed its connection.
+1700854251: New connection from 172.23.0.1:37012 on port 1883.
+1700854251: New client connected from 172.23.0.1:37012 as auto-07B143EA-D857-7270-0E5C-9C7DA5125066 (p2, c1, k60).
+1700854259: Client auto-07B143EA-D857-7270-0E5C-9C7DA5125066 closed its connection.
+1700854347: New connection from 172.23.0.1:51734 on port 1883.
+1700854347: New client connected from 172.23.0.1:51734 as auto-5EB04E74-059C-133B-4B16-FF832CDC8F1E (p2, c1, k60).
+1700854442: Client auto-5EB04E74-059C-133B-4B16-FF832CDC8F1E has exceeded timeout, disconnecting.
+1700854511: New connection from 172.23.0.1:53208 on port 1883.
+1700854511: New client connected from 172.23.0.1:53208 as auto-154A59A2-E9BA-AF38-5DF5-532E14D118B6 (p2, c1, k60).
+1700854604: Client auto-154A59A2-E9BA-AF38-5DF5-532E14D118B6 has exceeded timeout, disconnecting.
+1700854691: New connection from 172.23.0.1:34572 on port 1883.
+1700854691: New client connected from 172.23.0.1:34572 as auto-570A5933-0188-CA7F-B236-07DAA22D8E1E (p2, c1, k60).
+1700854691: Client auto-570A5933-0188-CA7F-B236-07DAA22D8E1E closed its connection.
+1700854736: New connection from 172.23.0.1:47710 on port 1883.
+1700854736: New client connected from 172.23.0.1:47710 as auto-77C2398C-B00E-5AE8-528A-BCA0A0C72B49 (p2, c1, k60).
+1700854736: Client auto-77C2398C-B00E-5AE8-528A-BCA0A0C72B49 closed its connection.
+1700854762: New connection from 172.23.0.1:40512 on port 1883.
+1700854762: New client connected from 172.23.0.1:40512 as auto-DFCEC7CB-7FDE-DC78-FF0B-47E9A362AF4B (p2, c1, k60).
+1700854854: Client auto-DFCEC7CB-7FDE-DC78-FF0B-47E9A362AF4B closed its connection.
+1700854856: New connection from 172.23.0.1:53728 on port 1883.
+1700854856: New client connected from 172.23.0.1:53728 as auto-C4ACEF81-A11D-C9B9-D673-532BB214D4EA (p2, c1, k60).
+1700854944: New connection from 172.23.0.1:60658 on port 1883.
+1700854944: New client connected from 172.23.0.1:60658 as auto-4FF34F65-B774-54D6-6FEE-4D3D7AC1BC1E (p2, c1, k60).
+1700854952: Client auto-C4ACEF81-A11D-C9B9-D673-532BB214D4EA has exceeded timeout, disconnecting.
+1700854977: Client auto-4FF34F65-B774-54D6-6FEE-4D3D7AC1BC1E closed its connection.
+1700855268: Client auto-C7ABF0AB-A214-C6FB-5BA3-00C7AB123D7B closed its connection.
+1700855271: New connection from 172.23.0.1:33638 on port 1883.
+1700855271: New client connected from 172.23.0.1:33638 as auto-12E8F867-6383-A649-A65E-A2520B21B4EA (p2, c1, k60).
+1700855276: New connection from 172.23.0.1:33650 on port 1883.
+1700855276: New client connected from 172.23.0.1:33650 as auto-0F0B2836-6C04-6B7B-441E-AA6F1DC94F10 (p2, c1, k60).
+1700855276: Client auto-12E8F867-6383-A649-A65E-A2520B21B4EA closed its connection.
+1700855291: Client auto-0F0B2836-6C04-6B7B-441E-AA6F1DC94F10 closed its connection.
+1700855665: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700855665: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700855665: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700856579: New connection from 172.23.0.1:46910 on port 1883.
+1700856579: New client connected from 172.23.0.1:46910 as auto-511C626D-75B9-5F0A-A7B6-DB6DB75691B1 (p2, c1, k60).
+1700856580: Client auto-511C626D-75B9-5F0A-A7B6-DB6DB75691B1 closed its connection.
+1700856880: New connection from 172.23.0.1:53340 on port 1883.
+1700856880: New client connected from 172.23.0.1:53340 as auto-05C97325-7969-0CA3-10BA-F312B3DEB016 (p2, c1, k60).
+1700856885: Client auto-05C97325-7969-0CA3-10BA-F312B3DEB016 closed its connection.
+1700856975: New connection from 172.23.0.1:58826 on port 1883.
+1700856975: New client connected from 172.23.0.1:58826 as auto-526E40C3-5AF2-9BD1-11B4-061E98E9B512 (p2, c1, k60).
+1700856981: New connection from 172.23.0.1:60786 on port 1883.
+1700856981: New client connected from 172.23.0.1:60786 as auto-443B61FF-244B-FB06-09C5-68A270FD552E (p2, c1, k60).
+1700856986: Client auto-443B61FF-244B-FB06-09C5-68A270FD552E closed its connection.
+1700857076: Client auto-526E40C3-5AF2-9BD1-11B4-061E98E9B512 has exceeded timeout, disconnecting.
+1700857146: New connection from 172.23.0.1:49450 on port 1883.
+1700857146: New client connected from 172.23.0.1:49450 as auto-F2FCA983-F4DD-BC9C-2E27-352A84B667B1 (p2, c1, k60).
+1700857172: New connection from 172.23.0.1:53484 on port 1883.
+1700857172: New client connected from 172.23.0.1:53484 as auto-30E1C96A-EE56-11E7-5BA5-C50659E00E3B (p2, c1, k60).
+1700857320: Client auto-F2FCA983-F4DD-BC9C-2E27-352A84B667B1 closed its connection.
+1700857321: Client auto-30E1C96A-EE56-11E7-5BA5-C50659E00E3B closed its connection.
+1700857395: New connection from 172.23.0.1:46730 on port 1883.
+1700857395: New client connected from 172.23.0.1:46730 as auto-C25DBCA2-2D97-A299-5463-5A2AFFDB5221 (p2, c1, k60).
+1700857401: Client auto-C25DBCA2-2D97-A299-5463-5A2AFFDB5221 closed its connection.
+1700857466: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700857466: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700857466: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700857483: New connection from 172.23.0.1:57894 on port 1883.
+1700857483: New client connected from 172.23.0.1:57894 as auto-02B84DF9-7BD0-EC0A-28C5-37B921F570F6 (p2, c1, k60).
+1700857488: Client auto-02B84DF9-7BD0-EC0A-28C5-37B921F570F6 closed its connection.
+1700857494: New connection from 172.23.0.1:41316 on port 1883.
+1700857494: New client connected from 172.23.0.1:41316 as auto-F79C2E4C-0424-9B1C-EC7B-43BABC96029F (p2, c1, k60).
+1700857555: New connection from 172.23.0.1:33878 on port 1883.
+1700857555: New client connected from 172.23.0.1:33878 as auto-85D1A24B-E646-828E-B1D6-CA4B0B2DC889 (p2, c1, k60).
+1700857560: Client auto-85D1A24B-E646-828E-B1D6-CA4B0B2DC889 closed its connection.
+1700857566: Client auto-F79C2E4C-0424-9B1C-EC7B-43BABC96029F closed its connection.
+1700857569: New connection from 172.23.0.1:42422 on port 1883.
+1700857569: New client connected from 172.23.0.1:42422 as auto-621462D3-D48D-36B5-F077-63BC00DFFFBD (p2, c1, k60).
+1700857611: New connection from 172.23.0.1:40392 on port 1883.
+1700857611: New client connected from 172.23.0.1:40392 as auto-DF7DAEBA-4887-0B05-0777-60DC41DAFA42 (p2, c1, k60).
+1700857616: Client auto-621462D3-D48D-36B5-F077-63BC00DFFFBD closed its connection.
+1700859267: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700859267: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700859267: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700861068: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700861068: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700861068: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700862869: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700862869: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700862869: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700864670: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700864670: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700864670: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700866469: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700866469: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700866469: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700868270: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700868270: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700868270: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700870071: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700870071: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700870071: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700871872: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700871872: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700871872: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700873673: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700873673: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700873673: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700875474: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700875474: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700875474: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700877275: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700877275: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700877275: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700879076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700879076: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700879076: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700880877: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700880877: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700880877: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700882678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700882678: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700882678: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700884479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700884479: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700884479: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700886280: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700886280: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700886280: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700888081: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700888081: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700888081: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700889882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700889882: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700889882: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700891683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700891683: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700891683: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700893484: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700893484: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700893484: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700895285: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700895285: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700895285: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700897086: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700897086: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700897086: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700898887: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700898887: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700898887: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700900688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700900688: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700900688: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700902489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700902489: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700902489: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700904290: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700904290: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700904290: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700906091: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700906091: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700906091: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700907892: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700907892: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700907892: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700909693: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700909693: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700909693: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700911494: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700911494: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700911494: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700913293: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700913293: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700913293: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700915094: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700915094: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700915094: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700916895: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700916895: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700916895: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700917565: Client auto-DF7DAEBA-4887-0B05-0777-60DC41DAFA42 closed its connection.
+1700917706: New connection from 172.23.0.1:51494 on port 1883.
+1700917706: New client connected from 172.23.0.1:51494 as auto-1A2A487B-F5BB-4022-8FC1-10AF3D43ACD9 (p2, c1, k60).
+1700917716: New connection from 172.23.0.1:54220 on port 1883.
+1700917716: New client connected from 172.23.0.1:54220 as auto-206EEE7E-7588-C822-E707-11673BFB8134 (p2, c1, k60).
+1700917716: Client auto-206EEE7E-7588-C822-E707-11673BFB8134 closed its connection.
+1700917922: New connection from 172.23.0.1:55486 on port 1883.
+1700917922: New client connected from 172.23.0.1:55486 as auto-1213C9E5-5AEA-8E7C-A375-831BAADECFC3 (p2, c1, k60).
+1700917926: Client auto-1213C9E5-5AEA-8E7C-A375-831BAADECFC3 closed its connection.
+1700917985: New connection from 172.23.0.1:37910 on port 1883.
+1700917985: New client connected from 172.23.0.1:37910 as auto-C55DC100-ABF7-B072-5965-F763607B346A (p2, c1, k60).
+1700918080: Client auto-C55DC100-ABF7-B072-5965-F763607B346A has exceeded timeout, disconnecting.
+1700918104: New connection from 172.23.0.1:59298 on port 1883.
+1700918104: New client connected from 172.23.0.1:59298 as auto-7B0C282C-F089-F9EA-6D99-023C96A8116B (p2, c1, k60).
+1700918107: Client auto-7B0C282C-F089-F9EA-6D99-023C96A8116B closed its connection.
+1700918214: New connection from 172.23.0.1:43748 on port 1883.
+1700918214: New client connected from 172.23.0.1:43748 as auto-01B200E7-172F-3BD3-2D93-C53C643804BE (p2, c1, k60).
+1700918217: Client auto-01B200E7-172F-3BD3-2D93-C53C643804BE closed its connection.
+1700918363: Client auto-1A2A487B-F5BB-4022-8FC1-10AF3D43ACD9 closed its connection.
+1700918368: New connection from 172.23.0.1:37040 on port 1883.
+1700918368: New client connected from 172.23.0.1:37040 as auto-D9D53998-882E-A4E0-19BF-CD2512447A11 (p2, c1, k60).
+1700918378: New connection from 172.23.0.1:43384 on port 1883.
+1700918378: New client connected from 172.23.0.1:43384 as auto-53FB27A2-C814-078B-F8C4-9DF9F024AD1C (p2, c1, k60).
+1700918379: Client auto-53FB27A2-C814-078B-F8C4-9DF9F024AD1C closed its connection.
+1700918652: New connection from 172.23.0.1:38234 on port 1883.
+1700918652: New client connected from 172.23.0.1:38234 as auto-D28A277D-1EE1-730E-C7FD-0D02C1884B30 (p2, c1, k60).
+1700918654: Client auto-D28A277D-1EE1-730E-C7FD-0D02C1884B30 closed its connection.
+1700918695: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700918695: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700918695: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700918775: New connection from 172.23.0.1:35958 on port 1883.
+1700918775: New client connected from 172.23.0.1:35958 as auto-E3CF3838-966D-BAF8-BEF1-19DCFF9964D9 (p2, c1, k60).
+1700918779: Client auto-E3CF3838-966D-BAF8-BEF1-19DCFF9964D9 closed its connection.
+1700918797: New connection from 172.23.0.1:59362 on port 1883.
+1700918797: New client connected from 172.23.0.1:59362 as auto-5653EDE1-8BDD-23EE-1FC2-DFA31B1A368D (p2, c1, k60).
+1700918799: Client auto-5653EDE1-8BDD-23EE-1FC2-DFA31B1A368D closed its connection.
+1700918853: New connection from 172.23.0.1:43478 on port 1883.
+1700918853: New client connected from 172.23.0.1:43478 as auto-0DFFB50D-93D1-AC06-B355-C06ED8FD2D6D (p2, c1, k60).
+1700918853: Client auto-0DFFB50D-93D1-AC06-B355-C06ED8FD2D6D closed its connection.
+1700918913: New connection from 172.23.0.1:45268 on port 1883.
+1700918913: New client connected from 172.23.0.1:45268 as auto-7BA8DDBC-1544-3308-ED87-78B9D0F03D98 (p2, c1, k60).
+1700918913: Client auto-7BA8DDBC-1544-3308-ED87-78B9D0F03D98 closed its connection.
+1700918993: New connection from 172.23.0.1:54688 on port 1883.
+1700918993: New client connected from 172.23.0.1:54688 as auto-892759DD-F8C4-A1EF-5E19-A3118556F1E2 (p2, c1, k60).
+1700918993: Client auto-892759DD-F8C4-A1EF-5E19-A3118556F1E2 closed its connection.
+1700919058: New connection from 172.23.0.1:40598 on port 1883.
+1700919058: New client connected from 172.23.0.1:40598 as auto-DB87FC16-7D49-F867-8E7C-74F27EA2EC7C (p2, c1, k60).
+1700919086: New connection from 172.23.0.1:43746 on port 1883.
+1700919086: New client connected from 172.23.0.1:43746 as auto-A69633F5-F860-2B0F-44E6-E5014C01CB08 (p2, c1, k60).
+1700919088: Client auto-A69633F5-F860-2B0F-44E6-E5014C01CB08 closed its connection.
+1700919140: New connection from 172.23.0.1:55754 on port 1883.
+1700919140: New client connected from 172.23.0.1:55754 as auto-86F4C320-03AF-D8F7-8335-CED7AD879D32 (p2, c1, k60).
+1700919147: Client auto-D9D53998-882E-A4E0-19BF-CD2512447A11 has exceeded timeout, disconnecting.
+1700920497: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700920497: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700920497: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700920610: Client auto-86F4C320-03AF-D8F7-8335-CED7AD879D32 closed its connection.
+1700920887: New connection from 172.23.0.1:42086 on port 1883.
+1700920887: New client connected from 172.23.0.1:42086 as auto-98B5148B-BCF4-722A-985A-8ED71844D6E1 (p2, c1, k60).
+1700920920: Client auto-98B5148B-BCF4-722A-985A-8ED71844D6E1 closed its connection.
+1700920924: New connection from 172.23.0.1:53606 on port 1883.
+1700920924: New client connected from 172.23.0.1:53606 as auto-EAA98A13-EF83-5DB9-5FF6-8EBE08AF3210 (p2, c1, k60).
+1700922298: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700922298: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700922298: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700922482: New connection from 172.23.0.1:38736 on port 1883.
+1700922482: New client connected from 172.23.0.1:38736 as auto-E79A2546-4B2F-94B2-08CB-4B065C459B74 (p2, c1, k60).
+1700922503: Client auto-EAA98A13-EF83-5DB9-5FF6-8EBE08AF3210 closed its connection.
+1700922535: Client auto-E79A2546-4B2F-94B2-08CB-4B065C459B74 closed its connection.
+1700922909: New connection from 172.23.0.1:58998 on port 1883.
+1700922909: New client connected from 172.23.0.1:58998 as auto-47C4517E-96C5-CB4B-EAF8-C88257B57D6F (p2, c1, k60).
+1700922967: Client auto-47C4517E-96C5-CB4B-EAF8-C88257B57D6F closed its connection.
+1700922992: New connection from 172.23.0.1:34316 on port 1883.
+1700922992: New client connected from 172.23.0.1:34316 as auto-368ED025-A8D2-FCD8-D8BA-EA12BD636A13 (p2, c1, k60).
+1700923046: Client auto-368ED025-A8D2-FCD8-D8BA-EA12BD636A13 closed its connection.
+1700923119: New connection from 172.23.0.1:60664 on port 1883.
+1700923119: New client connected from 172.23.0.1:60664 as auto-25724150-E985-C349-E024-1638765E8C63 (p2, c1, k60).
+1700923142: Client auto-25724150-E985-C349-E024-1638765E8C63 closed its connection.
+1700923149: New connection from 172.23.0.1:45966 on port 1883.
+1700923149: New client connected from 172.23.0.1:45966 as auto-CFB734E1-85FA-798A-0FBA-193FC6EA0ECD (p2, c1, k60).
+1700923187: New connection from 172.23.0.1:49760 on port 1883.
+1700923187: New client connected from 172.23.0.1:49760 as auto-D4BDF48D-1984-1FF8-0917-5C6F4A4464FF (p2, c1, k60).
+1700923190: Client auto-CFB734E1-85FA-798A-0FBA-193FC6EA0ECD closed its connection.
+1700923282: New connection from 172.23.0.1:58422 on port 1883.
+1700923282: New client connected from 172.23.0.1:58422 as auto-FEBDA9F0-F1A0-5737-6513-905A65537C04 (p2, c1, k60).
+1700924099: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700924099: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700924099: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700924408: New connection from 172.23.0.1:44542 on port 1883.
+1700924408: New client connected from 172.23.0.1:44542 as auto-929EF76B-8C19-5716-AE0A-1A3BD5EE5C5F (p2, c1, k60).
+1700924415: Client auto-D4BDF48D-1984-1FF8-0917-5C6F4A4464FF closed its connection.
+1700925900: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700925900: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700925900: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700927700: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700927700: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700927700: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700929502: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700929502: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700929502: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700931303: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700931303: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700931303: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700933104: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700933104: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700933104: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700934905: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700934905: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700934905: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700936706: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700936706: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700936706: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700938507: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700938507: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700938507: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700940308: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700940308: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700940308: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700942109: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700942109: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700942109: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700943910: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700943910: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700943910: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700945711: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700945711: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700945711: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700947512: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700947512: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700947512: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700948523: New connection from 172.23.0.1:37496 on port 1883.
+1700948523: New client connected from 172.23.0.1:37496 as auto-2680E70B-4269-28D2-BA5D-13D95406B205 (p2, c1, k60).
+1700948546: Client auto-2680E70B-4269-28D2-BA5D-13D95406B205 closed its connection.
+1700948548: Client auto-929EF76B-8C19-5716-AE0A-1A3BD5EE5C5F closed its connection.
+1700948550: Client auto-FEBDA9F0-F1A0-5737-6513-905A65537C04 closed its connection.
+1700948556: New connection from 172.23.0.1:50276 on port 1883.
+1700948556: New client connected from 172.23.0.1:50276 as auto-7369675F-DA7E-CEEC-E8EA-D12A9EF67E57 (p2, c1, k60).
+1700948564: New connection from 172.23.0.1:50278 on port 1883.
+1700948564: New client connected from 172.23.0.1:50278 as auto-869CB5F3-A7C4-F2F6-98ED-13AAC16223A3 (p2, c1, k60).
+1700948650: Client auto-869CB5F3-A7C4-F2F6-98ED-13AAC16223A3 closed its connection.
+1700948654: New connection from 172.23.0.1:54982 on port 1883.
+1700948654: New client connected from 172.23.0.1:54982 as auto-C25FD8BE-3BA8-0528-190A-C145D34DA0A8 (p2, c1, k60).
+1700948712: New connection from 172.23.0.1:38030 on port 1883.
+1700948712: New client connected from 172.23.0.1:38030 as auto-301A92A4-BCE6-BB09-493C-2313D6D150C5 (p2, c1, k60).
+1700949313: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700949313: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700949313: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700950964: Client auto-301A92A4-BCE6-BB09-493C-2313D6D150C5 closed its connection.
+1700950966: Client auto-C25FD8BE-3BA8-0528-190A-C145D34DA0A8 closed its connection.
+1700950973: Client auto-7369675F-DA7E-CEEC-E8EA-D12A9EF67E57 closed its connection.
+1700950976: Client auto-DB87FC16-7D49-F867-8E7C-74F27EA2EC7C closed its connection.
+1700951114: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700951114: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700951114: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700951513: New connection from 172.23.0.1:60800 on port 1883.
+1700951513: New client connected from 172.23.0.1:60800 as auto-6470CD0D-98E1-671B-264C-09D982D98F2D (p2, c1, k60).
+1700951530: New connection from 172.23.0.1:41916 on port 1883.
+1700951530: New client connected from 172.23.0.1:41916 as auto-2A732F8B-9F71-DF5E-5914-BB41C997EF06 (p2, c1, k60).
+1700951533: Client auto-2A732F8B-9F71-DF5E-5914-BB41C997EF06 closed its connection.
+1700951533: New connection from 172.23.0.1:41922 on port 1883.
+1700951533: New client connected from 172.23.0.1:41922 as auto-4F8A15C0-601D-77DA-9DEA-E08B61E05B5A (p2, c1, k60).
+1700951538: Client auto-4F8A15C0-601D-77DA-9DEA-E08B61E05B5A closed its connection.
+1700952045: New connection from 172.23.0.1:44988 on port 1883.
+1700952045: New client connected from 172.23.0.1:44988 as auto-F09FF62F-68AA-F94E-A882-CD6048909FBA (p2, c1, k60).
+1700952048: Client auto-F09FF62F-68AA-F94E-A882-CD6048909FBA closed its connection.
+1700952108: New connection from 172.23.0.1:44076 on port 1883.
+1700952108: New client connected from 172.23.0.1:44076 as auto-777F45F1-2C2A-B821-92EA-15E0D036B702 (p2, c1, k60).
+1700952109: Client auto-777F45F1-2C2A-B821-92EA-15E0D036B702 closed its connection.
+1700952130: New connection from 172.23.0.1:36774 on port 1883.
+1700952130: New client connected from 172.23.0.1:36774 as auto-71785796-9BE7-B086-577E-D03CE76986A4 (p2, c1, k60).
+1700952134: Client auto-71785796-9BE7-B086-577E-D03CE76986A4 closed its connection.
+1700952184: New connection from 172.23.0.1:39484 on port 1883.
+1700952184: New client connected from 172.23.0.1:39484 as auto-39340E25-1635-7D40-4F88-4D4F962DF2DB (p2, c1, k60).
+1700952286: New connection from 172.23.0.1:36118 on port 1883.
+1700952286: New client connected from 172.23.0.1:36118 as auto-ABA42FFB-E33E-D217-96D5-F301D3D2F8E5 (p2, c1, k60).
+1700952431: Client auto-ABA42FFB-E33E-D217-96D5-F301D3D2F8E5 closed its connection.
+1700952434: New connection from 172.23.0.1:32838 on port 1883.
+1700952434: New client connected from 172.23.0.1:32838 as auto-C13E58D6-84D7-681B-574D-A56C0160CFA4 (p2, c1, k60).
+1700952487: Client auto-C13E58D6-84D7-681B-574D-A56C0160CFA4 closed its connection.
+1700952513: Client auto-39340E25-1635-7D40-4F88-4D4F962DF2DB closed its connection.
+1700952515: New connection from 172.23.0.1:51636 on port 1883.
+1700952515: New client connected from 172.23.0.1:51636 as auto-59E28C4F-1178-8691-9901-8F7A2DCB7900 (p2, c1, k60).
+1700952543: Client auto-59E28C4F-1178-8691-9901-8F7A2DCB7900 closed its connection.
+1700952545: New connection from 172.23.0.1:39056 on port 1883.
+1700952545: New client connected from 172.23.0.1:39056 as auto-5A67CB45-CEE1-CAB6-1ED1-C97947FB11FF (p2, c1, k60).
+1700952594: New connection from 172.23.0.1:56596 on port 1883.
+1700952594: New client connected from 172.23.0.1:56596 as auto-85713176-5CCF-0C7E-2389-FE6A4A4C3269 (p2, c1, k60).
+1700952675: New connection from 172.23.0.1:48722 on port 1883.
+1700952675: New client connected from 172.23.0.1:48722 as auto-9D6D9158-3288-8B89-276F-EEE419E82975 (p2, c1, k60).
+1700952728: Client auto-9D6D9158-3288-8B89-276F-EEE419E82975 closed its connection.
+1700952761: New connection from 172.23.0.1:42764 on port 1883.
+1700952761: New client connected from 172.23.0.1:42764 as auto-32323DDD-AD00-6D0E-6320-B37E8DF0A7E3 (p2, c1, k60).
+1700952851: Client auto-32323DDD-AD00-6D0E-6320-B37E8DF0A7E3 closed its connection.
+1700952915: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700952915: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700952915: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700953082: New connection from 172.23.0.1:34746 on port 1883.
+1700953082: New client connected from 172.23.0.1:34746 as auto-CAE425FD-D256-7150-D292-49CED83AC4C5 (p2, c1, k60).
+1700953241: Client auto-CAE425FD-D256-7150-D292-49CED83AC4C5 closed its connection.
+1700954716: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700954716: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700954716: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700955124: New connection from 172.23.0.1:51710 on port 1883.
+1700955124: New client connected from 172.23.0.1:51710 as auto-A676DDAD-3076-49C2-7486-94B9DAC4AD20 (p2, c1, k60).
+1700955311: Client auto-A676DDAD-3076-49C2-7486-94B9DAC4AD20 closed its connection.
+1700955337: New connection from 172.23.0.1:52908 on port 1883.
+1700955337: New client connected from 172.23.0.1:52908 as auto-CD61DB7C-1D51-3969-7126-E87E95D1A203 (p2, c1, k60).
+1700955694: New connection from 172.23.0.1:56350 on port 1883.
+1700955694: New client connected from 172.23.0.1:56350 as auto-20423F34-1284-82B9-3615-1F0D1FA4873E (p2, c1, k60).
+1700955933: New connection from 172.23.0.1:50394 on port 1883.
+1700955933: New client connected from 172.23.0.1:50394 as auto-50679417-F150-0DF4-5568-6BD2F2D1DE3B (p2, c1, k60).
+1700955936: Client auto-20423F34-1284-82B9-3615-1F0D1FA4873E closed its connection.
+1700956025: New connection from 172.23.0.1:60294 on port 1883.
+1700956025: New client connected from 172.23.0.1:60294 as auto-792FF177-6F6E-9FFF-80CE-FAE4EAEECA6F (p2, c1, k60).
+1700956029: Client auto-50679417-F150-0DF4-5568-6BD2F2D1DE3B closed its connection.
+1700956084: Client auto-792FF177-6F6E-9FFF-80CE-FAE4EAEECA6F closed its connection.
+1700956085: Client auto-CD61DB7C-1D51-3969-7126-E87E95D1A203 closed its connection.
+1700956087: Client auto-85713176-5CCF-0C7E-2389-FE6A4A4C3269 closed its connection.
+1700956089: New connection from 172.23.0.1:51690 on port 1883.
+1700956089: New client connected from 172.23.0.1:51690 as auto-06065C8C-83E3-D56A-95CE-2A2A04A45CE9 (p2, c1, k60).
+1700956092: Client auto-5A67CB45-CEE1-CAB6-1ED1-C97947FB11FF closed its connection.
+1700956094: New connection from 172.23.0.1:51694 on port 1883.
+1700956094: New client connected from 172.23.0.1:51694 as auto-1A63819B-EB03-ABB7-D5A6-2B863042C864 (p2, c1, k60).
+1700956099: New connection from 172.23.0.1:39006 on port 1883.
+1700956099: New client connected from 172.23.0.1:39006 as auto-E24C328C-CF42-438C-A08E-BD29E348BF14 (p2, c1, k60).
+1700956104: Client auto-E24C328C-CF42-438C-A08E-BD29E348BF14 closed its connection.
+1700956104: New connection from 172.23.0.1:39022 on port 1883.
+1700956104: New connection from 172.23.0.1:39032 on port 1883.
+1700956104: New client connected from 172.23.0.1:39022 as auto-A372976C-1B73-E2C7-A70D-F767E4C39F1D (p2, c1, k60).
+1700956104: New client connected from 172.23.0.1:39032 as auto-A6D5A7CA-BD7B-8F0D-7E09-0F55186CC9CC (p2, c1, k60).
+1700956110: New connection from 172.23.0.1:57820 on port 1883.
+1700956110: New client connected from 172.23.0.1:57820 as auto-084CA0F3-DEED-048E-D7A5-8BD8368B2352 (p2, c1, k60).
+1700956114: Client auto-084CA0F3-DEED-048E-D7A5-8BD8368B2352 closed its connection.
+1700956115: New connection from 172.23.0.1:39392 on port 1883.
+1700956115: New client connected from 172.23.0.1:39392 as auto-6C8E0DB5-1123-88D7-7EA7-2ABE179CAF6A (p2, c1, k60).
+1700956115: New connection from 172.23.0.1:39406 on port 1883.
+1700956115: New client connected from 172.23.0.1:39406 as auto-2791A04F-6867-AA2B-F211-B4C6987C0A6D (p2, c1, k60).
+1700956120: New connection from 172.23.0.1:39418 on port 1883.
+1700956120: New client connected from 172.23.0.1:39418 as auto-A120C31E-F1DA-5532-818E-5EF34E06FB21 (p2, c1, k60).
+1700956124: Client auto-A120C31E-F1DA-5532-818E-5EF34E06FB21 closed its connection.
+1700956125: New connection from 172.23.0.1:33716 on port 1883.
+1700956125: New connection from 172.23.0.1:33724 on port 1883.
+1700956125: New client connected from 172.23.0.1:33716 as auto-79365712-9CED-5531-40B0-42D49C82B701 (p2, c1, k60).
+1700956125: New client connected from 172.23.0.1:33724 as auto-B95B95B7-6EBC-EF13-940A-30C7F37C7EC1 (p2, c1, k60).
+1700956130: New connection from 172.23.0.1:33740 on port 1883.
+1700956130: New client connected from 172.23.0.1:33740 as auto-28C42A18-4C50-D2BA-C323-7B0FE2D91C5F (p2, c1, k60).
+1700956134: Client auto-28C42A18-4C50-D2BA-C323-7B0FE2D91C5F closed its connection.
+1700956135: New connection from 172.23.0.1:60056 on port 1883.
+1700956135: New connection from 172.23.0.1:60040 on port 1883.
+1700956135: New client connected from 172.23.0.1:60056 as auto-89FAD29C-D87B-3A39-DD22-6F720E30D8EC (p2, c1, k60).
+1700956135: New client connected from 172.23.0.1:60040 as auto-5C465159-A0AE-A709-419D-38BBA0617113 (p2, c1, k60).
+1700956136: Client auto-89FAD29C-D87B-3A39-DD22-6F720E30D8EC closed its connection.
+1700956136: Client auto-79365712-9CED-5531-40B0-42D49C82B701 closed its connection.
+1700956136: Client auto-B95B95B7-6EBC-EF13-940A-30C7F37C7EC1 closed its connection.
+1700956136: Client auto-5C465159-A0AE-A709-419D-38BBA0617113 closed its connection.
+1700956136: Client auto-2791A04F-6867-AA2B-F211-B4C6987C0A6D closed its connection.
+1700956136: Client auto-6C8E0DB5-1123-88D7-7EA7-2ABE179CAF6A closed its connection.
+1700956136: Client auto-A372976C-1B73-E2C7-A70D-F767E4C39F1D closed its connection.
+1700956136: Client auto-06065C8C-83E3-D56A-95CE-2A2A04A45CE9 closed its connection.
+1700956136: Client auto-A6D5A7CA-BD7B-8F0D-7E09-0F55186CC9CC closed its connection.
+1700956136: Client auto-1A63819B-EB03-ABB7-D5A6-2B863042C864 closed its connection.
+1700956517: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700956517: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700956517: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700958318: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700958318: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700958318: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700960119: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700960119: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700960119: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700961920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700961920: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700961920: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700963719: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700963719: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700963719: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700965520: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700965520: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700965520: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700967321: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700967321: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700967321: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700969122: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700969122: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700969122: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700970923: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700970923: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700970923: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700972724: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700972724: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700972724: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700974525: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700974525: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700974525: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700976326: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700976326: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700976326: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700978127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700978127: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700978127: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700979928: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700979928: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700979928: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700981729: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700981729: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700981729: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700983530: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700983530: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700983530: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700985331: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700985331: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700985331: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700987132: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700987132: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700987132: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700988933: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700988933: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700988933: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700990734: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700990734: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700990734: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700992535: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700992535: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700992535: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700993924: Client auto-6470CD0D-98E1-671B-264C-09D982D98F2D closed its connection.
+1700994336: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700994336: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700994336: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700996137: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700996137: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700996137: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1700997300: New connection from 172.23.0.1:44042 on port 1883.
+1700997300: New client connected from 172.23.0.1:44042 as auto-3AF123AB-2739-98B6-E9F2-BD791B3D58F3 (p2, c1, k60).
+1700997316: Client auto-3AF123AB-2739-98B6-E9F2-BD791B3D58F3 closed its connection.
+1700997319: New connection from 172.23.0.1:44988 on port 1883.
+1700997319: New client connected from 172.23.0.1:44988 as auto-D9DED7CD-4B56-1513-0B4E-01E0F599BFF9 (p2, c1, k60).
+1700997369: New connection from 172.23.0.1:48026 on port 1883.
+1700997369: New client connected from 172.23.0.1:48026 as auto-DE7F2D69-9137-4169-DE99-1644D36C0CB7 (p2, c1, k60).
+1700997374: New connection from 172.23.0.1:35258 on port 1883.
+1700997374: New client connected from 172.23.0.1:35258 as auto-D4B6D43F-BA4C-2F69-F86C-93D65A62E1E9 (p2, c1, k60).
+1700997379: New connection from 172.23.0.1:35274 on port 1883.
+1700997379: New client connected from 172.23.0.1:35274 as auto-BF347A5D-DEF4-5D16-AB5C-FFCC78C9F1E0 (p2, c1, k60).
+1700997383: Client auto-BF347A5D-DEF4-5D16-AB5C-FFCC78C9F1E0 closed its connection.
+1700997384: New connection from 172.23.0.1:40822 on port 1883.
+1700997384: New connection from 172.23.0.1:40826 on port 1883.
+1700997384: New client connected from 172.23.0.1:40822 as auto-EA940F33-E26A-0410-A181-1F3FA677B82C (p2, c1, k60).
+1700997384: New client connected from 172.23.0.1:40826 as auto-D88F6A14-C6FB-A8EC-9AD8-F63946D78EFD (p2, c1, k60).
+1700997389: New connection from 172.23.0.1:40834 on port 1883.
+1700997389: New client connected from 172.23.0.1:40834 as auto-951F54B2-D8C7-9C50-CE8B-5FE7AE94ECEC (p2, c1, k60).
+1700997393: Client auto-951F54B2-D8C7-9C50-CE8B-5FE7AE94ECEC closed its connection.
+1700997394: New connection from 172.23.0.1:45356 on port 1883.
+1700997394: New connection from 172.23.0.1:45354 on port 1883.
+1700997394: New client connected from 172.23.0.1:45356 as auto-B4B48C06-2299-D276-7D11-B15B6840F225 (p2, c1, k60).
+1700997394: New client connected from 172.23.0.1:45354 as auto-293D746D-7B34-87BB-583A-F2B390DFC436 (p2, c1, k60).
+1700997399: New connection from 172.23.0.1:45362 on port 1883.
+1700997399: New client connected from 172.23.0.1:45362 as auto-84B9763A-F138-88C4-AFAE-6D4E5CBDD05F (p2, c1, k60).
+1700997403: Client auto-84B9763A-F138-88C4-AFAE-6D4E5CBDD05F closed its connection.
+1700997404: New connection from 172.23.0.1:49416 on port 1883.
+1700997404: New connection from 172.23.0.1:49414 on port 1883.
+1700997404: New client connected from 172.23.0.1:49414 as auto-212A38CD-E6F8-3F17-CC23-4D96824B8443 (p2, c1, k60).
+1700997404: New client connected from 172.23.0.1:49416 as auto-39C53C30-1269-00F8-ABF8-FFE78B21225F (p2, c1, k60).
+1700997409: New connection from 172.23.0.1:49430 on port 1883.
+1700997409: New client connected from 172.23.0.1:49430 as auto-7DFE0D29-8F32-4722-96AA-73180E5DD1E3 (p2, c1, k60).
+1700997413: Client auto-7DFE0D29-8F32-4722-96AA-73180E5DD1E3 closed its connection.
+1700997414: New connection from 172.23.0.1:44668 on port 1883.
+1700997414: New connection from 172.23.0.1:44674 on port 1883.
+1700997414: New client connected from 172.23.0.1:44668 as auto-1BFB4478-7C59-ED7D-544D-0094E41E4542 (p2, c1, k60).
+1700997414: New client connected from 172.23.0.1:44674 as auto-21A16BFD-415D-20B1-8571-B6F334FA7EC0 (p2, c1, k60).
+1700997419: New connection from 172.23.0.1:44684 on port 1883.
+1700997419: New client connected from 172.23.0.1:44684 as auto-C63A7104-7652-2767-0234-613AB23739D8 (p2, c1, k60).
+1700997419: Client auto-C63A7104-7652-2767-0234-613AB23739D8 closed its connection.
+1700997419: Client auto-39C53C30-1269-00F8-ABF8-FFE78B21225F closed its connection.
+1700997419: Client auto-293D746D-7B34-87BB-583A-F2B390DFC436 closed its connection.
+1700997419: Client auto-B4B48C06-2299-D276-7D11-B15B6840F225 closed its connection.
+1700997419: Client auto-EA940F33-E26A-0410-A181-1F3FA677B82C closed its connection.
+1700997419: Client auto-D88F6A14-C6FB-A8EC-9AD8-F63946D78EFD closed its connection.
+1700997419: Client auto-21A16BFD-415D-20B1-8571-B6F334FA7EC0 closed its connection.
+1700997419: Client auto-D4B6D43F-BA4C-2F69-F86C-93D65A62E1E9 closed its connection.
+1700997419: Client auto-DE7F2D69-9137-4169-DE99-1644D36C0CB7 closed its connection.
+1700997419: Client auto-1BFB4478-7C59-ED7D-544D-0094E41E4542 closed its connection.
+1700997419: Client auto-212A38CD-E6F8-3F17-CC23-4D96824B8443 closed its connection.
+1700997483: New connection from 172.23.0.1:58184 on port 1883.
+1700997483: New client connected from 172.23.0.1:58184 as auto-BF5AB7E8-B4B1-35D1-AE56-E9632A335DCF (p2, c1, k60).
+1700997488: New connection from 172.23.0.1:58200 on port 1883.
+1700997488: New client connected from 172.23.0.1:58200 as auto-84B675FC-654E-D11E-1A11-0291CD3821FF (p2, c1, k60).
+1700997493: New connection from 172.23.0.1:59786 on port 1883.
+1700997493: New client connected from 172.23.0.1:59786 as auto-31DE4916-09E3-553D-74F6-EC0F46B2C6F8 (p2, c1, k60).
+1700997498: Client auto-31DE4916-09E3-553D-74F6-EC0F46B2C6F8 closed its connection.
+1700997498: New connection from 172.23.0.1:59792 on port 1883.
+1700997498: New connection from 172.23.0.1:59802 on port 1883.
+1700997498: New client connected from 172.23.0.1:59792 as auto-28737995-BC89-E942-70ED-CD5A4834D1C7 (p2, c1, k60).
+1700997498: New client connected from 172.23.0.1:59802 as auto-E2850BDA-57DB-39F1-751C-D0D6A5FD8EAF (p2, c1, k60).
+1700997503: New connection from 172.23.0.1:38470 on port 1883.
+1700997503: New client connected from 172.23.0.1:38470 as auto-96B44270-E60B-3C43-4DD0-6840D11E75D4 (p2, c1, k60).
+1700997508: Client auto-96B44270-E60B-3C43-4DD0-6840D11E75D4 closed its connection.
+1700997508: New connection from 172.23.0.1:38472 on port 1883.
+1700997508: New connection from 172.23.0.1:38474 on port 1883.
+1700997508: New client connected from 172.23.0.1:38474 as auto-369ABB19-9752-BB2F-77BD-59FF68506FCF (p2, c1, k60).
+1700997508: New client connected from 172.23.0.1:38472 as auto-C541B176-A69F-0CB4-B39A-4581AE1A5AA2 (p2, c1, k60).
+1700997513: New connection from 172.23.0.1:46494 on port 1883.
+1700997513: New client connected from 172.23.0.1:46494 as auto-3AE201B7-FB41-2F22-EA4B-1A64F929DFDA (p2, c1, k60).
+1700997518: Client auto-3AE201B7-FB41-2F22-EA4B-1A64F929DFDA closed its connection.
+1700997518: New connection from 172.23.0.1:46498 on port 1883.
+1700997518: New connection from 172.23.0.1:46502 on port 1883.
+1700997518: New client connected from 172.23.0.1:46502 as auto-B16AD652-8A4F-29FB-C186-FF31047AB653 (p2, c1, k60).
+1700997518: New client connected from 172.23.0.1:46498 as auto-3069061A-EA83-60AD-5ACD-8ED2FDCFEF6B (p2, c1, k60).
+1700997523: New connection from 172.23.0.1:36630 on port 1883.
+1700997523: New client connected from 172.23.0.1:36630 as auto-B4D87AA1-4980-543D-EC47-579BBDC02040 (p2, c1, k60).
+1700997528: Client auto-B4D87AA1-4980-543D-EC47-579BBDC02040 closed its connection.
+1700997528: New connection from 172.23.0.1:36636 on port 1883.
+1700997528: New connection from 172.23.0.1:36646 on port 1883.
+1700997528: New client connected from 172.23.0.1:36636 as auto-8835D3BE-9845-18CF-3B0E-7D2E9D10F471 (p2, c1, k60).
+1700997528: New client connected from 172.23.0.1:36646 as auto-81BCEAD6-8C94-9A6D-4331-0DEAD64710D6 (p2, c1, k60).
+1700997533: New connection from 172.23.0.1:49884 on port 1883.
+1700997533: New client connected from 172.23.0.1:49884 as auto-9E4B3F4C-794A-85D8-7D10-65D67F687E3E (p2, c1, k60).
+1700997534: New connection from 172.23.0.1:49898 on port 1883.
+1700997534: New client connected from 172.23.0.1:49898 as auto-1F364146-BCE8-4215-CD60-7F211BA66C5E (p2, c1, k60).
+1700997538: Client auto-9E4B3F4C-794A-85D8-7D10-65D67F687E3E closed its connection.
+1700997538: New connection from 172.23.0.1:49910 on port 1883.
+1700997538: New connection from 172.23.0.1:49924 on port 1883.
+1700997538: New client connected from 172.23.0.1:49924 as auto-FF93A53A-1C05-1432-526B-C52A80150C69 (p2, c1, k60).
+1700997538: New client connected from 172.23.0.1:49910 as auto-89F537D8-4675-2188-037E-1C47B62BBC49 (p2, c1, k60).
+1700997543: New connection from 172.23.0.1:53528 on port 1883.
+1700997543: New client connected from 172.23.0.1:53528 as auto-2F329E76-5EF2-7C7A-EA05-8A814ECC6490 (p2, c1, k60).
+1700997548: Client auto-2F329E76-5EF2-7C7A-EA05-8A814ECC6490 closed its connection.
+1700997548: New connection from 172.23.0.1:53544 on port 1883.
+1700997548: New connection from 172.23.0.1:53552 on port 1883.
+1700997548: New client connected from 172.23.0.1:53544 as auto-990A0B85-F0AD-F66E-4C24-4178162E4649 (p2, c1, k60).
+1700997548: New client connected from 172.23.0.1:53552 as auto-091D4A81-7B95-83D7-D268-7F07E7EAC243 (p2, c1, k60).
+1700997553: New connection from 172.23.0.1:43596 on port 1883.
+1700997553: New client connected from 172.23.0.1:43596 as auto-D69F44F8-9F94-375F-8A3F-35B5C81826E4 (p2, c1, k60).
+1700997558: Client auto-D69F44F8-9F94-375F-8A3F-35B5C81826E4 closed its connection.
+1700997558: New connection from 172.23.0.1:43606 on port 1883.
+1700997558: New connection from 172.23.0.1:43618 on port 1883.
+1700997558: New client connected from 172.23.0.1:43606 as auto-194B9822-8EAD-E52D-CE3E-AE0C7990676B (p2, c1, k60).
+1700997558: New client connected from 172.23.0.1:43618 as auto-96B8B9BD-E387-8154-6E4C-35A32DADAA1D (p2, c1, k60).
+1700997559: Client auto-194B9822-8EAD-E52D-CE3E-AE0C7990676B closed its connection.
+1700997559: Client auto-990A0B85-F0AD-F66E-4C24-4178162E4649 closed its connection.
+1700997559: Client auto-091D4A81-7B95-83D7-D268-7F07E7EAC243 closed its connection.
+1700997559: Client auto-89F537D8-4675-2188-037E-1C47B62BBC49 closed its connection.
+1700997559: Client auto-E2850BDA-57DB-39F1-751C-D0D6A5FD8EAF closed its connection.
+1700997559: Client auto-81BCEAD6-8C94-9A6D-4331-0DEAD64710D6 closed its connection.
+1700997559: Client auto-3069061A-EA83-60AD-5ACD-8ED2FDCFEF6B closed its connection.
+1700997559: Client auto-8835D3BE-9845-18CF-3B0E-7D2E9D10F471 closed its connection.
+1700997559: Client auto-96B8B9BD-E387-8154-6E4C-35A32DADAA1D closed its connection.
+1700997559: Client auto-B16AD652-8A4F-29FB-C186-FF31047AB653 closed its connection.
+1700997559: Client auto-28737995-BC89-E942-70ED-CD5A4834D1C7 closed its connection.
+1700997559: Client auto-84B675FC-654E-D11E-1A11-0291CD3821FF closed its connection.
+1700997559: Client auto-C541B176-A69F-0CB4-B39A-4581AE1A5AA2 closed its connection.
+1700997559: Client auto-FF93A53A-1C05-1432-526B-C52A80150C69 closed its connection.
+1700997559: Client auto-BF5AB7E8-B4B1-35D1-AE56-E9632A335DCF closed its connection.
+1700997559: Client auto-369ABB19-9752-BB2F-77BD-59FF68506FCF closed its connection.
+1700997565: Client auto-1F364146-BCE8-4215-CD60-7F211BA66C5E closed its connection.
+1700997568: Client auto-D9DED7CD-4B56-1513-0B4E-01E0F599BFF9 closed its connection.
+1700997938: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1700997938: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1700997938: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
