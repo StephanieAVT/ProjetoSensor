@@ -15,7 +15,7 @@ redis_db1 = 0  # Número do primeiro banco de dados
 redis_db2 = 1  # Número do segundo banco de dados
 
 # Chave Fernet (deve ser a mesma chave usada para criptografar as mensagens)
-chave_criptografia = 'Dd7xkkPoAj7UeNTGeUQ1KV5C5QgbIrm6bf4c7z0zWUI='.encode()  # Substitua com sua chave
+chave_criptografia = '_t5Xz_HncrR186Vf-h4pFdjnlyhKWcA1gDo1ckeDP3g='.encode()  # Substitua com sua chave
 cipher = Fernet(chave_criptografia)
 
 dados_recebidos = 0  # Inicializa o contador de dados recebidos

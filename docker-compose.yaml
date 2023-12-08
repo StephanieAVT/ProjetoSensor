@@ -16,6 +16,37 @@ services:
     networks:
       - mqtt-net
 
+  cassandra1:
+    image: cassandra:latest
+    container_name: cassandra1
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_CLUSTER_NAME=my_cluster
+      - CASSANDRA_SEEDS=cassandra1,cassandra2
+      - CASSANDRA_RACK=RAC1
+      - CASSANDRA_LISTEN_ADDRESS=cassandra1
+      - CASSANDRA_RPC_ADDRESS=0.0.0.0
+      - CASSANDRA_BROADCAST_ADDRESS=cassandra1
+    networks:
+      - cassandra-network
+
+
+  cassandra2:
+      image: cassandra:latest
+      container_name: cassandra2
+      ports:
+        - "9043:9043"
+      environment:
+        - CASSANDRA_CLUSTER_NAME=my_cluster
+        - CASSANDRA_SEEDS=cassandra1,cassandra2
+        - CASSANDRA_RACK=RAC1
+        - CASSANDRA_LISTEN_ADDRESS=cassandra2
+        - CASSANDRA_RPC_ADDRESS=0.0.0.0
+        - CASSANDRA_BROADCAST_ADDRESS=cassandra2
+      networks:
+        - cassandra-network
 networks:
+  cassandra-network:
   mqtt-net:
     driver: bridge

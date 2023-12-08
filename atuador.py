@@ -6,7 +6,7 @@ port = 1883
 topic = "atuador/status"
 
 # Chave Fernet (deve ser a mesma chave usada para criptografar as mensagens)
-chave_criptografia = 'Dd7xkkPoAj7UeNTGeUQ1KV5C5QgbIrm6bf4c7z0zWUI='.encode()  # Substitua com sua chave
+chave_criptografia = '_t5Xz_HncrR186Vf-h4pFdjnlyhKWcA1gDo1ckeDP3g='.encode()  # Substitua com sua chave
 cipher = Fernet(chave_criptografia)
 
 

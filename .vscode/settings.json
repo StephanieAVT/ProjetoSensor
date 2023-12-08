@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "localhost",
+            "port": 9042,
+            "previewLimit": 50,
+            "driver": "Cassandra",
+            "name": "cassandra1",
+            "password": ""
+        },
+        {
+            "server": "localhost",
+            "port": 9042,
+            "previewLimit": 50,
+            "askForPassword": true,
+            "driver": "Cassandra",
+            "name": "cassandra2"
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 import paho.mqtt.client as mqtt
 import redis
+from cassandra.cluster import Cluster
 from cryptography.fernet import Fernet
 
 broker_address = "localhost"
@@ -14,20 +15,25 @@ redis_port = 6379
 redis_db1 = 0  # Número do primeiro banco de dados
 redis_db2 = 1  # Número do segundo banco de dados
 
+# Configurações do Cassandra
+cassandra_contact_points = ['localhost']
+cassandra_keyspace = 'sensor_data'  # Substitua com o nome do seu keyspace
+
+
 # Chave Fernet (deve ser a mesma chave usada para criptografar as mensagens)
-chave_criptografia = 'Dd7xkkPoAj7UeNTGeUQ1KV5C5QgbIrm6bf4c7z0zWUI='.encode()  # Substitua com sua chave
+chave_criptografia = '_t5Xz_HncrR186Vf-h4pFdjnlyhKWcA1gDo1ckeDP3g='.encode()  # Substitua com sua chave
 cipher = Fernet(chave_criptografia)
 
 
 dados_recebidos = 0  # Inicializa o contador de dados recebidos
 
-def connect_redis(db):
+def connect_cassandra():
     try:
-        redis_client = redis.StrictRedis(host=redis_host, port=redis_port, db=db)
-        redis_client.ping()  # Check if the server is available
-        return redis_client
-    except redis.ConnectionError:
-        print(f"Falha na conexão com Redis no banco de dados {db}.")
+        cluster = Cluster(contact_points=cassandra_contact_points)
+        session = cluster.connect(keyspace=cassandra_keyspace)
+        return session
+    except Exception as e:
+        print(f"Falha na conexão com o Cassandra: {e}")
         return None
 
 def on_connect(client, userdata, flags, rc):
@@ -53,15 +59,11 @@ def on_message(client, userdata, msg):
     # Publicar também no tópico de backup
     client.publish(backup_topic, valor_criptografado)
 
-    # Salvar dados no Redis (Banco de dados 1)
-    redis_client_db1 = connect_redis(redis_db1)
-    if redis_client_db1:
-        redis_client_db1.set("movimento_key", valor)
+    # Salvar dados no Cassandra
+    cassandra_session = connect_cassandra()
+    if cassandra_session:
+        cassandra_session.execute(f"INSERT INTO sensor (movimento_key) VALUES ({valor})")
 
-    # Salvar dados no Redis (Banco de dados 2)
-    redis_client_db2 = connect_redis(redis_db2)
-    if redis_client_db2:
-        redis_client_db2.set("movimento_key", valor)
 
 
 if __name__ == "__main__":
